@@ -986,7 +986,7 @@ year,team,rec_rank,rec_points,draft_picks_total,draft_score_total,first_round_to
 2012,Bethune-Cookman,133,23.44,0,0,0,3,True
 2012,Liberty,134,22.63,0,0,0,3,True
 2012,Gardner-Webb,135,22.12,0,0,0,3,True
-2012,McNeese,136,21.19,0,0,0,0,False
+2012,McNeese,136,21.19,0,0,0,3,True
 2012,Pennsylvania,137,21.17,0,0,0,3,True
 2012,Massachusetts,138,19.91,1,2,0,3,True
 2012,Dartmouth,139,19.37,0,0,0,0,False
@@ -1203,7 +1203,7 @@ year,team,rec_rank,rec_points,draft_picks_total,draft_score_total,first_round_to
 2013,Wofford,168,18.4,0,0,0,0,False
 2013,SE Louisiana,169,17.21,1,1,0,3,True
 2013,Northern Colorado,170,16.28,0,0,0,3,True
-2013,McNeese,171,16.23,0,0,0,0,False
+2013,McNeese,171,16.23,0,0,0,3,True
 2013,Florida A&M,172,15.66,0,0,0,3,True
 2013,Lamar,173,14.99,1,4,0,3,True
 2013,Jacksonville,174,14.62,0,0,0,0,False
@@ -1389,7 +1389,7 @@ year,team,rec_rank,rec_points,draft_picks_total,draft_score_total,first_round_to
 2014,Samford,144,34.42,0,0,0,3,True
 2014,Tennessee Tech,145,32.99,0,0,0,3,True
 2014,Kennesaw State,146,32.95,0,0,0,0,False
-2014,Nicholls,147,32.13,0,0,0,0,False
+2014,Nicholls,147,32.13,0,0,0,3,True
 2014,Furman,148,30.83,0,0,0,3,True
 2014,Princeton,149,30.57,0,0,0,3,True
 2014,Indiana State,150,30.33,0,0,0,0,False
@@ -1428,7 +1428,7 @@ year,team,rec_rank,rec_points,draft_picks_total,draft_score_total,first_round_to
 2014,SE Louisiana,185,14.95,0,0,0,3,True
 2014,Savannah St,187,14.24,0,0,0,0,False
 2014,Jackson State,188,14.23,0,0,0,3,True
-2014,McNeese,189,14.19,0,0,0,0,False
+2014,McNeese,189,14.19,0,0,0,3,True
 2014,Pennsylvania,190,13.96,1,2,0,3,True
 2014,Sam Houston,193,13.29,1,5,0,3,True
 2014,Idaho State,194,13.29,0,0,0,0,False
@@ -1679,7 +1679,7 @@ year,team,rec_rank,rec_points,draft_picks_total,draft_score_total,first_round_to
 2015,Charleston Southern,209,11.13,0,0,0,0,False
 2015,Elon,210,11.06,1,1,0,3,True
 2015,Eastern Kentucky,211,11.01,0,0,0,3,True
-2015,McNeese,213,10.93,0,0,0,0,False
+2015,McNeese,213,10.93,0,0,0,3,True
 2015,Valparaiso,214,10.32,0,0,0,0,False
 2015,Missouri State,215,10.0,0,0,0,3,True
 2015,Alabama State,216,9.97,1,7,1,3,True
@@ -1867,7 +1867,7 @@ year,team,rec_rank,rec_points,draft_picks_total,draft_score_total,first_round_to
 2016,Tennessee Tech,160,49.02,0,0,0,3,True
 2016,Weber State,161,48.18,0,0,0,3,True
 2016,Western Carolina,162,47.73,0,0,0,3,True
-2016,McNeese,163,46.78,0,0,0,0,False
+2016,McNeese,163,46.78,0,0,0,3,True
 2016,Wofford,164,46.72,0,0,0,0,False
 2016,Montana State,165,46.61,0,0,0,3,True
 2016,Youngstown State,166,46.34,0,0,0,3,True
@@ -1878,7 +1878,7 @@ year,team,rec_rank,rec_points,draft_picks_total,draft_score_total,first_round_to
 2016,Murray State,171,42.71,1,4,0,3,True
 2016,Dartmouth,172,42.51,0,0,0,0,False
 2016,Princeton,173,42.21,0,0,0,3,True
-2016,Nicholls,174,41.98,0,0,0,0,False
+2016,Nicholls,174,41.98,0,0,0,3,True
 2016,SE Louisiana,175,40.99,0,0,0,3,True
 2016,Indiana State,176,39.37,0,0,0,0,False
 2016,Southern Utah,177,38.01,0,0,0,3,True
@@ -2125,7 +2125,7 @@ year,team,rec_rank,rec_points,draft_picks_total,draft_score_total,first_round_to
 2017,Cornell,181,32.15,0,0,0,2,False
 2017,Missouri State,182,32.02,0,0,0,2,False
 2017,Sacramento State,183,31.33,0,0,0,0,False
-2017,McNeese,184,31.02,0,0,0,0,False
+2017,McNeese,184,31.02,0,0,0,2,False
 2017,Holy Cross,185,30.54,0,0,0,0,False
 2017,Tennessee Tech,186,30.13,0,0,0,2,False
 2017,The Citadel,187,29.98,0,0,0,2,False
@@ -2172,7 +2172,7 @@ year,team,rec_rank,rec_points,draft_picks_total,draft_score_total,first_round_to
 2017,Marist,243,6.67,0,0,0,2,False
 2017,Elon,245,6.67,0,0,0,2,False
 2017,San Diego,246,6.67,0,0,0,2,False
-2017,Nicholls,249,6.67,0,0,0,0,False
+2017,Nicholls,249,6.67,0,0,0,2,False
 2017,Sacred Heart,251,5.92,0,0,0,0,False
 2017,Morehead State,252,5.81,0,0,0,0,False
 2017,North Carolina A&T,256,2.97,0,0,0,2,False
@@ -2372,7 +2372,7 @@ year,team,rec_rank,rec_points,draft_picks_total,draft_score_total,first_round_to
 2018,Charleston Southern,196,15.0,0,0,0,0,False
 2018,Northwestern State,197,14.69,0,0,0,1,False
 2018,Northern Arizona,198,14.61,0,0,0,1,False
-2018,McNeese,199,14.46,0,0,0,0,False
+2018,McNeese,199,14.46,0,0,0,1,False
 2018,North Carolina A&T,200,14.16,0,0,0,1,False
 2018,Rhode Island,203,12.15,0,0,0,1,False
 2018,Lehigh,204,11.91,0,0,0,1,False

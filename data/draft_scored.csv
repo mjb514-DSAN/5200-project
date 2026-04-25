@@ -5,7 +5,7 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2005,Texas,3,15,2,0
 2005,West Virginia,3,13,1,0
 2005,South Carolina,3,9,1,0
-2005,Miami (FL),5,21,1,1
+2005,Miami,5,21,1,1
 2005,USC,5,25,2,2
 2005,Troy,1,7,1,0
 2005,Maryland,2,11,1,0
@@ -52,7 +52,7 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2005,Iowa State,1,4,0,0
 2005,Missouri,3,7,0,0
 2005,Cal Poly,1,4,0,0
-2005,North Carolina State,3,7,0,0
+2005,NC State,3,7,0,0
 2005,Kentucky,1,4,0,0
 2005,Oregon,2,5,0,0
 2005,Toledo,1,4,0,0
@@ -92,23 +92,16 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2005,Baylor,1,1,0,0
 2005,Michigan State,4,4,0,0
 2005,Marshall,1,1,0,0
-2005,Michigan Tech,1,1,0,0
 2005,Pittsburgh,1,1,0,0
 2005,UTEP,1,1,0,0
 2005,The Citadel,1,1,0,0
-2005,Grambling State,1,1,0,0
 2005,Tulsa,1,1,0,0
 2005,Eastern Michigan,1,1,0,0
 2005,Northern Arizona,1,1,0,0
-2005,Tuskegee,1,1,0,0
 2005,Bowling Green,1,1,0,0
-2005,Albany,1,1,0,0
 2005,Harvard,1,1,0,0
-2005,William Penn,1,1,0,0
-2005,NC State,0,0,0,0
 2005,Penn State,0,0,0,0
 2005,Memphis,0,0,0,0
-2005,Miami,0,0,0,0
 2005,Boston College,0,0,0,0
 2005,Colorado,0,0,0,0
 2005,Boise State,0,0,0,0
@@ -119,11 +112,9 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2005,Georgia Tech,0,0,0,0
 2005,UCF,0,0,0,0
 2005,East Carolina,0,0,0,0
-2005,Hofstra,0,0,0,0
 2005,Furman,0,0,0,0
 2005,North Dakota,0,0,0,0
 2005,Nevada,0,0,0,0
-2005,Central Missouri State,0,0,0,0
 2005,Cornell,0,0,0,0
 2005,Wyoming,0,0,0,0
 2005,Texas State,0,0,0,0
@@ -132,7 +123,6 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2005,Maine,0,0,0,0
 2005,Rutgers,0,0,0,0
 2005,Kent State,0,0,0,0
-2005,Lane,0,0,0,0
 2005,San José State,0,0,0,0
 2005,Northern Illinois,0,0,0,0
 2005,South Florida,0,0,0,0
@@ -140,50 +130,39 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2005,Towson,0,0,0,0
 2005,Florida International,0,0,0,0
 2005,North Carolina Central,0,0,0,0
-2005,Wingate,0,0,0,0
 2005,Alabama A&M,0,0,0,0
 2005,New Hampshire,0,0,0,0
 2005,Arkansas State,0,0,0,0
-2005,Nicholls State,0,0,0,0
+2005,Nicholls,0,0,0,0
 2005,SMU,0,0,0,0
 2005,Portland State,0,0,0,0
 2005,Central Arkansas,0,0,0,0
 2005,Central Connecticut,0,0,0,0
 2005,Delaware,0,0,0,0
 2005,Coastal Carolina,0,0,0,0
-2005,Whitworth,0,0,0,0
-2005,UW-Whitewater,0,0,0,0
 2005,Elon,0,0,0,0
 2005,Tennessee State,0,0,0,0
 2005,App State,0,0,0,0
 2005,Eastern Kentucky,0,0,0,0
-2005,McNeese State,0,0,0,0
+2005,McNeese,0,0,0,0
 2005,Northern Iowa,0,0,0,0
-2005,Winston-Salem,0,0,0,0
 2005,Utah State,0,0,0,0
 2005,Richmond,0,0,0,0
 2005,San Diego,0,0,0,0
 2005,Middle Tennessee,0,0,0,0
 2005,Buffalo,0,0,0,0
 2005,Jackson State,0,0,0,0
-2005,Wheaton College (Ill),0,0,0,0
 2005,Villanova,0,0,0,0
 2005,Gardner-Webb,0,0,0,0
 2005,Ohio,0,0,0,0
 2005,Army,0,0,0,0
-2005,St. Augustine's,0,0,0,0
-2005,Bentley,0,0,0,0
 2005,Idaho,0,0,0,0
 2005,Western Illinois,0,0,0,0
 2005,William & Mary,0,0,0,0
-2005,Western Ontario,0,0,0,0
-2005,Stillman,0,0,0,0
-2005,St. Paul's College,0,0,0,0
 2005,Rice,0,0,0,0
 2005,Sam Houston,0,0,0,0
 2005,Monmouth,0,0,0,0
 2005,Norfolk State,0,0,0,0
-2005,Nebraska-Omaha,0,0,0,0
 2005,Stephen F. Austin,0,0,0,0
 2005,Liberty,0,0,0,0
 2005,Massachusetts,0,0,0,0
@@ -242,7 +221,7 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2006,Texas,6,26,2,1
 2006,West Virginia,1,1,0,0
 2006,South Carolina,2,10,1,0
-2006,Miami (FL),0,0,0,0
+2006,Miami,9,38,1,3
 2006,USC,11,44,2,3
 2006,Troy,0,0,0,0
 2006,Maryland,3,13,1,1
@@ -289,7 +268,7 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2006,Iowa State,1,2,0,0
 2006,Missouri,2,4,0,0
 2006,Cal Poly,1,4,0,0
-2006,North Carolina State,0,0,0,0
+2006,NC State,6,26,3,0
 2006,Kentucky,0,0,0,0
 2006,Oregon,4,16,1,1
 2006,Toledo,1,1,0,0
@@ -329,23 +308,16 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2006,Baylor,1,1,0,0
 2006,Michigan State,3,8,0,0
 2006,Marshall,0,0,0,0
-2006,Michigan Tech,0,0,0,0
 2006,Pittsburgh,2,5,0,0
 2006,UTEP,1,5,0,1
 2006,The Citadel,0,0,0,0
-2006,Grambling State,1,4,0,0
 2006,Tulsa,1,3,0,0
 2006,Eastern Michigan,0,0,0,0
 2006,Northern Arizona,0,0,0,0
-2006,Tuskegee,0,0,0,0
 2006,Bowling Green,1,2,0,0
-2006,Albany,0,0,0,0
 2006,Harvard,0,0,0,0
-2006,William Penn,0,0,0,0
-2006,NC State,6,26,3,0
 2006,Penn State,6,18,1,0
 2006,Memphis,2,10,1,0
-2006,Miami,9,38,1,3
 2006,Boston College,3,15,1,1
 2006,Colorado,4,10,0,1
 2006,Boise State,1,5,0,1
@@ -356,11 +328,9 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2006,Georgia Tech,3,9,0,0
 2006,UCF,1,3,0,0
 2006,East Carolina,1,3,0,0
-2006,Hofstra,2,4,0,0
 2006,Furman,1,2,0,0
 2006,North Dakota,1,2,0,0
 2006,Nevada,1,2,0,0
-2006,Central Missouri State,1,1,0,0
 2006,Cornell,1,1,0,0
 2006,Wyoming,1,1,0,0
 2006,Texas State,1,1,0,0
@@ -369,7 +339,6 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2006,Maine,1,1,0,0
 2006,Rutgers,0,0,0,0
 2006,Kent State,0,0,0,0
-2006,Lane,0,0,0,0
 2006,San José State,0,0,0,0
 2006,Northern Illinois,0,0,0,0
 2006,South Florida,0,0,0,0
@@ -377,50 +346,39 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2006,Towson,0,0,0,0
 2006,Florida International,0,0,0,0
 2006,North Carolina Central,0,0,0,0
-2006,Wingate,0,0,0,0
 2006,Alabama A&M,0,0,0,0
 2006,New Hampshire,0,0,0,0
 2006,Arkansas State,0,0,0,0
-2006,Nicholls State,0,0,0,0
+2006,Nicholls,0,0,0,0
 2006,SMU,0,0,0,0
 2006,Portland State,0,0,0,0
 2006,Central Arkansas,0,0,0,0
 2006,Central Connecticut,0,0,0,0
 2006,Delaware,0,0,0,0
 2006,Coastal Carolina,0,0,0,0
-2006,Whitworth,0,0,0,0
-2006,UW-Whitewater,0,0,0,0
 2006,Elon,0,0,0,0
 2006,Tennessee State,0,0,0,0
 2006,App State,0,0,0,0
 2006,Eastern Kentucky,0,0,0,0
-2006,McNeese State,0,0,0,0
+2006,McNeese,0,0,0,0
 2006,Northern Iowa,0,0,0,0
-2006,Winston-Salem,0,0,0,0
 2006,Utah State,0,0,0,0
 2006,Richmond,0,0,0,0
 2006,San Diego,0,0,0,0
 2006,Middle Tennessee,0,0,0,0
 2006,Buffalo,0,0,0,0
 2006,Jackson State,0,0,0,0
-2006,Wheaton College (Ill),0,0,0,0
 2006,Villanova,0,0,0,0
 2006,Gardner-Webb,0,0,0,0
 2006,Ohio,0,0,0,0
 2006,Army,0,0,0,0
-2006,St. Augustine's,0,0,0,0
-2006,Bentley,0,0,0,0
 2006,Idaho,0,0,0,0
 2006,Western Illinois,0,0,0,0
 2006,William & Mary,0,0,0,0
-2006,Western Ontario,0,0,0,0
-2006,Stillman,0,0,0,0
-2006,St. Paul's College,0,0,0,0
 2006,Rice,0,0,0,0
 2006,Sam Houston,0,0,0,0
 2006,Monmouth,0,0,0,0
 2006,Norfolk State,0,0,0,0
-2006,Nebraska-Omaha,0,0,0,0
 2006,Stephen F. Austin,0,0,0,0
 2006,Liberty,0,0,0,0
 2006,Massachusetts,0,0,0,0
@@ -479,7 +437,7 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2007,Texas,7,30,2,2
 2007,West Virginia,0,0,0,0
 2007,South Carolina,2,8,0,1
-2007,Miami (FL),0,0,0,0
+2007,Miami,5,27,3,0
 2007,USC,5,18,0,3
 2007,Troy,1,3,0,0
 2007,Maryland,2,8,0,1
@@ -526,7 +484,7 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2007,Iowa State,1,1,0,0
 2007,Missouri,1,3,0,0
 2007,Cal Poly,1,1,0,0
-2007,North Carolina State,0,0,0,0
+2007,NC State,3,10,0,0
 2007,Kentucky,0,0,0,0
 2007,Oregon,3,4,0,0
 2007,Toledo,0,0,0,0
@@ -566,23 +524,16 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2007,Baylor,2,4,0,0
 2007,Michigan State,3,8,0,1
 2007,Marshall,1,1,0,0
-2007,Michigan Tech,0,0,0,0
 2007,Pittsburgh,3,11,1,0
 2007,UTEP,2,5,0,0
 2007,The Citadel,0,0,0,0
-2007,Grambling State,0,0,0,0
 2007,Tulsa,0,0,0,0
 2007,Eastern Michigan,0,0,0,0
 2007,Northern Arizona,0,0,0,0
-2007,Tuskegee,0,0,0,0
 2007,Bowling Green,0,0,0,0
-2007,Albany,1,1,0,0
 2007,Harvard,0,0,0,0
-2007,William Penn,0,0,0,0
-2007,NC State,3,10,0,0
 2007,Penn State,5,22,1,1
 2007,Memphis,1,2,0,0
-2007,Miami,5,27,3,0
 2007,Boston College,2,7,0,0
 2007,Colorado,2,2,0,0
 2007,Boise State,4,9,0,1
@@ -593,11 +544,9 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2007,Georgia Tech,2,10,1,0
 2007,UCF,1,4,0,0
 2007,East Carolina,1,2,0,0
-2007,Hofstra,0,0,0,0
 2007,Furman,0,0,0,0
 2007,North Dakota,0,0,0,0
 2007,Nevada,1,2,0,0
-2007,Central Missouri State,0,0,0,0
 2007,Cornell,0,0,0,0
 2007,Wyoming,1,1,0,0
 2007,Texas State,0,0,0,0
@@ -606,7 +555,6 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2007,Maine,1,1,0,0
 2007,Rutgers,3,8,0,1
 2007,Kent State,1,4,0,0
-2007,Lane,1,4,0,0
 2007,San José State,2,5,0,0
 2007,Northern Illinois,2,7,0,0
 2007,South Florida,1,3,0,0
@@ -614,50 +562,39 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2007,Towson,1,3,0,0
 2007,Florida International,2,4,0,0
 2007,North Carolina Central,1,2,0,0
-2007,Wingate,1,2,0,0
 2007,Alabama A&M,1,2,0,0
 2007,New Hampshire,1,2,0,0
 2007,Arkansas State,1,1,0,0
-2007,Nicholls State,1,1,0,0
+2007,Nicholls,1,1,0,0
 2007,SMU,1,1,0,0
 2007,Portland State,1,1,0,0
 2007,Central Arkansas,1,1,0,0
 2007,Central Connecticut,1,1,0,0
 2007,Delaware,1,1,0,0
 2007,Coastal Carolina,1,1,0,0
-2007,Whitworth,1,1,0,0
-2007,UW-Whitewater,1,1,0,0
 2007,Elon,1,1,0,0
 2007,Tennessee State,0,0,0,0
 2007,App State,0,0,0,0
 2007,Eastern Kentucky,0,0,0,0
-2007,McNeese State,0,0,0,0
+2007,McNeese,0,0,0,0
 2007,Northern Iowa,0,0,0,0
-2007,Winston-Salem,0,0,0,0
 2007,Utah State,0,0,0,0
 2007,Richmond,0,0,0,0
 2007,San Diego,0,0,0,0
 2007,Middle Tennessee,0,0,0,0
 2007,Buffalo,0,0,0,0
 2007,Jackson State,0,0,0,0
-2007,Wheaton College (Ill),0,0,0,0
 2007,Villanova,0,0,0,0
 2007,Gardner-Webb,0,0,0,0
 2007,Ohio,0,0,0,0
 2007,Army,0,0,0,0
-2007,St. Augustine's,0,0,0,0
-2007,Bentley,0,0,0,0
 2007,Idaho,0,0,0,0
 2007,Western Illinois,0,0,0,0
 2007,William & Mary,0,0,0,0
-2007,Western Ontario,0,0,0,0
-2007,Stillman,0,0,0,0
-2007,St. Paul's College,0,0,0,0
 2007,Rice,0,0,0,0
 2007,Sam Houston,0,0,0,0
 2007,Monmouth,0,0,0,0
 2007,Norfolk State,0,0,0,0
-2007,Nebraska-Omaha,0,0,0,0
 2007,Stephen F. Austin,0,0,0,0
 2007,Liberty,0,0,0,0
 2007,Massachusetts,0,0,0,0
@@ -716,7 +653,7 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2008,Texas,5,18,0,1
 2008,West Virginia,3,7,0,0
 2008,South Carolina,1,1,0,0
-2008,Miami (FL),0,0,0,0
+2008,Miami,3,16,1,1
 2008,USC,10,48,4,3
 2008,Troy,1,7,1,0
 2008,Maryland,1,3,0,0
@@ -763,7 +700,7 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2008,Iowa State,2,3,0,0
 2008,Missouri,2,6,0,0
 2008,Cal Poly,0,0,0,0
-2008,North Carolina State,0,0,0,0
+2008,NC State,2,6,0,0
 2008,Kentucky,4,8,0,0
 2008,Oregon,3,10,1,0
 2008,Toledo,2,5,0,0
@@ -803,23 +740,16 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2008,Baylor,0,0,0,0
 2008,Michigan State,3,8,0,1
 2008,Marshall,0,0,0,0
-2008,Michigan Tech,0,0,0,0
 2008,Pittsburgh,3,11,1,0
 2008,UTEP,3,9,0,0
 2008,The Citadel,0,0,0,0
-2008,Grambling State,0,0,0,0
 2008,Tulsa,1,1,0,0
 2008,Eastern Michigan,1,5,0,1
 2008,Northern Arizona,0,0,0,0
-2008,Tuskegee,0,0,0,0
 2008,Bowling Green,1,3,0,0
-2008,Albany,0,0,0,0
 2008,Harvard,0,0,0,0
-2008,William Penn,0,0,0,0
-2008,NC State,2,6,0,0
 2008,Penn State,2,7,0,0
 2008,Memphis,0,0,0,0
-2008,Miami,3,16,1,1
 2008,Boston College,3,15,2,0
 2008,Colorado,2,10,0,2
 2008,Boise State,2,9,1,0
@@ -830,11 +760,9 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2008,Georgia Tech,3,8,0,0
 2008,UCF,3,8,0,0
 2008,East Carolina,1,7,1,0
-2008,Hofstra,0,0,0,0
 2008,Furman,1,2,0,0
 2008,North Dakota,0,0,0,0
 2008,Nevada,0,0,0,0
-2008,Central Missouri State,0,0,0,0
 2008,Cornell,0,0,0,0
 2008,Wyoming,0,0,0,0
 2008,Texas State,0,0,0,0
@@ -843,7 +771,6 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2008,Maine,0,0,0,0
 2008,Rutgers,2,9,0,1
 2008,Kent State,1,3,0,0
-2008,Lane,0,0,0,0
 2008,San José State,1,3,0,0
 2008,Northern Illinois,0,0,0,0
 2008,South Florida,2,9,1,0
@@ -851,50 +778,39 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2008,Towson,0,0,0,0
 2008,Florida International,0,0,0,0
 2008,North Carolina Central,0,0,0,0
-2008,Wingate,0,0,0,0
 2008,Alabama A&M,0,0,0,0
 2008,New Hampshire,0,0,0,0
 2008,Arkansas State,1,5,0,1
-2008,Nicholls State,1,1,0,0
+2008,Nicholls,1,1,0,0
 2008,SMU,0,0,0,0
 2008,Portland State,0,0,0,0
 2008,Central Arkansas,0,0,0,0
 2008,Central Connecticut,0,0,0,0
 2008,Delaware,1,7,1,0
 2008,Coastal Carolina,1,5,0,1
-2008,Whitworth,0,0,0,0
-2008,UW-Whitewater,0,0,0,0
 2008,Elon,0,0,0,0
 2008,Tennessee State,1,7,1,0
 2008,App State,2,6,0,1
 2008,Eastern Kentucky,1,4,0,0
-2008,McNeese State,1,4,0,0
+2008,McNeese,1,4,0,0
 2008,Northern Iowa,2,5,0,0
-2008,Winston-Salem,1,3,0,0
 2008,Utah State,2,4,0,0
 2008,Richmond,2,5,0,0
 2008,San Diego,1,2,0,0
 2008,Middle Tennessee,1,1,0,0
 2008,Buffalo,2,2,0,0
 2008,Jackson State,1,1,0,0
-2008,Wheaton College (Ill),1,1,0,0
 2008,Villanova,1,1,0,0
 2008,Gardner-Webb,1,1,0,0
 2008,Ohio,1,1,0,0
 2008,Army,1,1,0,0
-2008,St. Augustine's,1,1,0,0
-2008,Bentley,1,1,0,0
 2008,Idaho,1,1,0,0
 2008,Western Illinois,0,0,0,0
 2008,William & Mary,0,0,0,0
-2008,Western Ontario,0,0,0,0
-2008,Stillman,0,0,0,0
-2008,St. Paul's College,0,0,0,0
 2008,Rice,0,0,0,0
 2008,Sam Houston,0,0,0,0
 2008,Monmouth,0,0,0,0
 2008,Norfolk State,0,0,0,0
-2008,Nebraska-Omaha,0,0,0,0
 2008,Stephen F. Austin,0,0,0,0
 2008,Liberty,0,0,0,0
 2008,Massachusetts,0,0,0,0
@@ -953,7 +869,7 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2009,Texas,4,15,1,0
 2009,West Virginia,3,7,0,1
 2009,South Carolina,7,13,0,0
-2009,Miami (FL),0,0,0,0
+2009,Miami,1,1,0,0
 2009,USC,11,45,3,2
 2009,Troy,1,5,0,1
 2009,Maryland,5,14,1,0
@@ -1000,7 +916,7 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2009,Iowa State,0,0,0,0
 2009,Missouri,6,26,2,1
 2009,Cal Poly,1,4,0,0
-2009,North Carolina State,0,0,0,0
+2009,NC State,2,6,0,0
 2009,Kentucky,1,1,0,0
 2009,Oregon,6,19,0,3
 2009,Toledo,0,0,0,0
@@ -1040,23 +956,16 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2009,Baylor,1,7,1,0
 2009,Michigan State,1,2,0,0
 2009,Marshall,0,0,0,0
-2009,Michigan Tech,0,0,0,0
 2009,Pittsburgh,4,9,0,1
 2009,UTEP,0,0,0,0
 2009,The Citadel,0,0,0,0
-2009,Grambling State,0,0,0,0
 2009,Tulsa,0,0,0,0
 2009,Eastern Michigan,1,3,0,0
 2009,Northern Arizona,0,0,0,0
-2009,Tuskegee,0,0,0,0
 2009,Bowling Green,0,0,0,0
-2009,Albany,0,0,0,0
 2009,Harvard,0,0,0,0
-2009,William Penn,0,0,0,0
-2009,NC State,2,6,0,0
 2009,Penn State,5,19,1,0
 2009,Memphis,1,1,0,0
-2009,Miami,1,1,0,0
 2009,Boston College,2,12,1,1
 2009,Colorado,1,1,0,0
 2009,Boise State,0,0,0,0
@@ -1067,11 +976,9 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2009,Georgia Tech,4,7,0,0
 2009,UCF,1,2,0,0
 2009,East Carolina,1,2,0,0
-2009,Hofstra,0,0,0,0
 2009,Furman,1,2,0,0
 2009,North Dakota,0,0,0,0
 2009,Nevada,1,1,0,0
-2009,Central Missouri State,0,0,0,0
 2009,Cornell,0,0,0,0
 2009,Wyoming,0,0,0,0
 2009,Texas State,0,0,0,0
@@ -1080,7 +987,6 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2009,Maine,0,0,0,0
 2009,Rutgers,5,11,1,0
 2009,Kent State,1,1,0,0
-2009,Lane,0,0,0,0
 2009,San José State,3,9,0,0
 2009,Northern Illinois,1,7,1,0
 2009,South Florida,1,4,0,0
@@ -1088,50 +994,39 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2009,Towson,0,0,0,0
 2009,Florida International,0,0,0,0
 2009,North Carolina Central,0,0,0,0
-2009,Wingate,0,0,0,0
 2009,Alabama A&M,0,0,0,0
 2009,New Hampshire,0,0,0,0
 2009,Arkansas State,1,1,0,0
-2009,Nicholls State,1,4,0,0
+2009,Nicholls,1,4,0,0
 2009,SMU,1,2,0,0
 2009,Portland State,0,0,0,0
 2009,Central Arkansas,0,0,0,0
 2009,Central Connecticut,0,0,0,0
 2009,Delaware,0,0,0,0
 2009,Coastal Carolina,0,0,0,0
-2009,Whitworth,0,0,0,0
-2009,UW-Whitewater,0,0,0,0
 2009,Elon,0,0,0,0
 2009,Tennessee State,1,1,0,0
 2009,App State,0,0,0,0
 2009,Eastern Kentucky,0,0,0,0
-2009,McNeese State,1,1,0,0
+2009,McNeese,1,1,0,0
 2009,Northern Iowa,0,0,0,0
-2009,Winston-Salem,0,0,0,0
 2009,Utah State,0,0,0,0
 2009,Richmond,1,3,0,0
 2009,San Diego,0,0,0,0
 2009,Middle Tennessee,0,0,0,0
 2009,Buffalo,0,0,0,0
 2009,Jackson State,0,0,0,0
-2009,Wheaton College (Ill),0,0,0,0
 2009,Villanova,0,0,0,0
 2009,Gardner-Webb,0,0,0,0
 2009,Ohio,1,5,0,1
 2009,Army,0,0,0,0
-2009,St. Augustine's,0,0,0,0
-2009,Bentley,0,0,0,0
 2009,Idaho,1,1,0,0
 2009,Western Illinois,1,4,0,0
 2009,William & Mary,1,4,0,0
-2009,Western Ontario,1,3,0,0
-2009,Stillman,1,3,0,0
-2009,St. Paul's College,1,3,0,0
 2009,Rice,2,4,0,0
 2009,Sam Houston,1,2,0,0
 2009,Monmouth,1,2,0,0
 2009,Norfolk State,1,1,0,0
-2009,Nebraska-Omaha,1,1,0,0
 2009,Stephen F. Austin,1,1,0,0
 2009,Liberty,1,1,0,0
 2009,Massachusetts,0,0,0,0
@@ -1190,7 +1085,7 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2010,Texas,6,28,1,2
 2010,West Virginia,1,1,0,0
 2010,South Carolina,2,4,0,0
-2010,Miami (FL),0,0,0,0
+2010,Miami,4,11,0,0
 2010,USC,7,25,0,2
 2010,Troy,3,4,0,0
 2010,Maryland,2,5,0,0
@@ -1237,7 +1132,7 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2010,Iowa State,1,1,0,0
 2010,Missouri,1,7,1,0
 2010,Cal Poly,0,0,0,0
-2010,North Carolina State,0,0,0,0
+2010,NC State,2,2,0,0
 2010,Kentucky,3,9,0,0
 2010,Oregon,3,12,0,1
 2010,Toledo,0,0,0,0
@@ -1277,23 +1172,16 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2010,Baylor,2,5,0,0
 2010,Michigan State,1,1,0,0
 2010,Marshall,0,0,0,0
-2010,Michigan Tech,0,0,0,0
 2010,Pittsburgh,2,2,0,0
 2010,UTEP,0,0,0,0
 2010,The Citadel,1,4,0,0
-2010,Grambling State,0,0,0,0
 2010,Tulsa,0,0,0,0
 2010,Eastern Michigan,0,0,0,0
 2010,Northern Arizona,0,0,0,0
-2010,Tuskegee,0,0,0,0
 2010,Bowling Green,0,0,0,0
-2010,Albany,0,0,0,0
 2010,Harvard,0,0,0,0
-2010,William Penn,0,0,0,0
-2010,NC State,2,2,0,0
 2010,Penn State,6,20,1,1
 2010,Memphis,0,0,0,0
-2010,Miami,4,11,0,0
 2010,Boston College,1,2,0,0
 2010,Colorado,0,0,0,0
 2010,Boise State,1,7,1,0
@@ -1304,11 +1192,9 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2010,Georgia Tech,4,19,2,0
 2010,UCF,1,5,0,1
 2010,East Carolina,3,7,0,1
-2010,Hofstra,0,0,0,0
 2010,Furman,0,0,0,0
 2010,North Dakota,0,0,0,0
 2010,Nevada,0,0,0,0
-2010,Central Missouri State,0,0,0,0
 2010,Cornell,0,0,0,0
 2010,Wyoming,0,0,0,0
 2010,Texas State,0,0,0,0
@@ -1317,7 +1203,6 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2010,Maine,0,0,0,0
 2010,Rutgers,3,15,2,0
 2010,Kent State,1,1,0,0
-2010,Lane,0,0,0,0
 2010,San José State,0,0,0,0
 2010,Northern Illinois,0,0,0,0
 2010,South Florida,5,18,1,1
@@ -1325,50 +1210,39 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2010,Towson,0,0,0,0
 2010,Florida International,0,0,0,0
 2010,North Carolina Central,0,0,0,0
-2010,Wingate,0,0,0,0
 2010,Alabama A&M,0,0,0,0
 2010,New Hampshire,0,0,0,0
 2010,Arkansas State,1,4,0,0
-2010,Nicholls State,0,0,0,0
+2010,Nicholls,0,0,0,0
 2010,SMU,1,4,0,0
 2010,Portland State,0,0,0,0
 2010,Central Arkansas,1,2,0,0
 2010,Central Connecticut,0,0,0,0
 2010,Delaware,0,0,0,0
 2010,Coastal Carolina,0,0,0,0
-2010,Whitworth,0,0,0,0
-2010,UW-Whitewater,0,0,0,0
 2010,Elon,0,0,0,0
 2010,Tennessee State,0,0,0,0
 2010,App State,1,4,0,0
 2010,Eastern Kentucky,0,0,0,0
-2010,McNeese State,0,0,0,0
+2010,McNeese,0,0,0,0
 2010,Northern Iowa,0,0,0,0
-2010,Winston-Salem,0,0,0,0
 2010,Utah State,0,0,0,0
 2010,Richmond,0,0,0,0
 2010,San Diego,0,0,0,0
 2010,Middle Tennessee,1,1,0,0
 2010,Buffalo,1,1,0,0
 2010,Jackson State,0,0,0,0
-2010,Wheaton College (Ill),0,0,0,0
 2010,Villanova,0,0,0,0
 2010,Gardner-Webb,0,0,0,0
 2010,Ohio,1,4,0,0
 2010,Army,0,0,0,0
-2010,St. Augustine's,0,0,0,0
-2010,Bentley,0,0,0,0
 2010,Idaho,1,7,1,0
 2010,Western Illinois,0,0,0,0
 2010,William & Mary,2,2,0,0
-2010,Western Ontario,0,0,0,0
-2010,Stillman,0,0,0,0
-2010,St. Paul's College,0,0,0,0
 2010,Rice,0,0,0,0
 2010,Sam Houston,0,0,0,0
 2010,Monmouth,0,0,0,0
 2010,Norfolk State,0,0,0,0
-2010,Nebraska-Omaha,0,0,0,0
 2010,Stephen F. Austin,0,0,0,0
 2010,Liberty,0,0,0,0
 2010,Massachusetts,1,5,0,1
@@ -1427,7 +1301,7 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2011,Texas,4,14,0,1
 2011,West Virginia,4,7,0,0
 2011,South Carolina,2,5,0,0
-2011,Miami (FL),0,0,0,0
+2011,Miami,8,27,0,2
 2011,USC,9,23,1,0
 2011,Troy,1,4,0,0
 2011,Maryland,2,6,0,1
@@ -1474,7 +1348,7 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2011,Iowa State,0,0,0,0
 2011,Missouri,3,15,2,0
 2011,Cal Poly,0,0,0,0
-2011,North Carolina State,0,0,0,0
+2011,NC State,1,4,0,0
 2011,Kentucky,1,5,0,1
 2011,Oregon,1,3,0,0
 2011,Toledo,0,0,0,0
@@ -1514,23 +1388,16 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2011,Baylor,4,16,2,0
 2011,Michigan State,2,2,0,0
 2011,Marshall,1,2,0,0
-2011,Michigan Tech,0,0,0,0
 2011,Pittsburgh,5,17,1,1
 2011,UTEP,0,0,0,0
 2011,The Citadel,1,3,0,0
-2011,Grambling State,0,0,0,0
 2011,Tulsa,1,1,0,0
 2011,Eastern Michigan,0,0,0,0
 2011,Northern Arizona,0,0,0,0
-2011,Tuskegee,0,0,0,0
 2011,Bowling Green,0,0,0,0
-2011,Albany,0,0,0,0
 2011,Harvard,0,0,0,0
-2011,William Penn,0,0,0,0
-2011,NC State,1,4,0,0
 2011,Penn State,2,6,0,1
 2011,Memphis,0,0,0,0
-2011,Miami,8,27,0,2
 2011,Boston College,1,7,1,0
 2011,Colorado,4,18,2,0
 2011,Boise State,3,10,0,1
@@ -1541,11 +1408,9 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2011,Georgia Tech,1,1,0,0
 2011,UCF,2,5,0,0
 2011,East Carolina,1,1,0,0
-2011,Hofstra,0,0,0,0
 2011,Furman,0,0,0,0
 2011,North Dakota,0,0,0,0
 2011,Nevada,3,10,0,1
-2011,Central Missouri State,0,0,0,0
 2011,Cornell,0,0,0,0
 2011,Wyoming,1,3,0,0
 2011,Texas State,0,0,0,0
@@ -1554,7 +1419,6 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2011,Maine,0,0,0,0
 2011,Rutgers,0,0,0,0
 2011,Kent State,0,0,0,0
-2011,Lane,0,0,0,0
 2011,San José State,0,0,0,0
 2011,Northern Illinois,0,0,0,0
 2011,South Florida,3,6,0,0
@@ -1562,50 +1426,39 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2011,Towson,0,0,0,0
 2011,Florida International,1,1,0,0
 2011,North Carolina Central,0,0,0,0
-2011,Wingate,0,0,0,0
 2011,Alabama A&M,1,1,0,0
 2011,New Hampshire,0,0,0,0
 2011,Arkansas State,1,1,0,0
-2011,Nicholls State,0,0,0,0
+2011,Nicholls,0,0,0,0
 2011,SMU,1,1,0,0
 2011,Portland State,1,3,0,0
 2011,Central Arkansas,1,1,0,0
 2011,Central Connecticut,0,0,0,0
 2011,Delaware,0,0,0,0
 2011,Coastal Carolina,0,0,0,0
-2011,Whitworth,0,0,0,0
-2011,UW-Whitewater,0,0,0,0
 2011,Elon,0,0,0,0
 2011,Tennessee State,0,0,0,0
 2011,App State,3,5,0,0
 2011,Eastern Kentucky,0,0,0,0
-2011,McNeese State,0,0,0,0
+2011,McNeese,0,0,0,0
 2011,Northern Iowa,0,0,0,0
-2011,Winston-Salem,0,0,0,0
 2011,Utah State,1,4,0,0
 2011,Richmond,1,1,0,0
 2011,San Diego,0,0,0,0
 2011,Middle Tennessee,1,2,0,0
 2011,Buffalo,1,2,0,0
 2011,Jackson State,0,0,0,0
-2011,Wheaton College (Ill),0,0,0,0
 2011,Villanova,1,5,0,1
 2011,Gardner-Webb,0,0,0,0
 2011,Ohio,0,0,0,0
 2011,Army,0,0,0,0
-2011,St. Augustine's,0,0,0,0
-2011,Bentley,0,0,0,0
 2011,Idaho,3,5,0,0
 2011,Western Illinois,0,0,0,0
 2011,William & Mary,0,0,0,0
-2011,Western Ontario,0,0,0,0
-2011,Stillman,0,0,0,0
-2011,St. Paul's College,0,0,0,0
 2011,Rice,1,1,0,0
 2011,Sam Houston,0,0,0,0
 2011,Monmouth,0,0,0,0
 2011,Norfolk State,0,0,0,0
-2011,Nebraska-Omaha,0,0,0,0
 2011,Stephen F. Austin,1,1,0,0
 2011,Liberty,0,0,0,0
 2011,Massachusetts,0,0,0,0
@@ -1664,7 +1517,7 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2012,Texas,3,5,0,0
 2012,West Virginia,3,10,1,0
 2012,South Carolina,6,23,2,1
-2012,Miami (FL),0,0,0,0
+2012,Miami,6,16,0,0
 2012,USC,3,17,2,0
 2012,Troy,1,2,0,0
 2012,Maryland,0,0,0,0
@@ -1711,7 +1564,7 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2012,Iowa State,1,5,0,1
 2012,Missouri,1,4,0,0
 2012,Cal Poly,0,0,0,0
-2012,North Carolina State,0,0,0,0
+2012,NC State,5,9,0,0
 2012,Kentucky,2,2,0,0
 2012,Oregon,4,9,0,1
 2012,Toledo,0,0,0,0
@@ -1751,23 +1604,16 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2012,Baylor,5,19,2,0
 2012,Michigan State,6,14,0,1
 2012,Marshall,1,5,0,1
-2012,Michigan Tech,0,0,0,0
 2012,Pittsburgh,0,0,0,0
 2012,UTEP,0,0,0,0
 2012,The Citadel,0,0,0,0
-2012,Grambling State,0,0,0,0
 2012,Tulsa,0,0,0,0
 2012,Eastern Michigan,0,0,0,0
 2012,Northern Arizona,0,0,0,0
-2012,Tuskegee,0,0,0,0
 2012,Bowling Green,0,0,0,0
-2012,Albany,0,0,0,0
 2012,Harvard,0,0,0,0
-2012,William Penn,0,0,0,0
-2012,NC State,5,9,0,0
 2012,Penn State,4,10,0,1
 2012,Memphis,1,7,1,0
-2012,Miami,6,16,0,0
 2012,Boston College,1,7,1,0
 2012,Colorado,2,3,0,0
 2012,Boise State,6,22,2,0
@@ -1778,11 +1624,9 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2012,Georgia Tech,1,5,0,1
 2012,UCF,1,4,0,0
 2012,East Carolina,0,0,0,0
-2012,Hofstra,0,0,0,0
 2012,Furman,0,0,0,0
 2012,North Dakota,0,0,0,0
 2012,Nevada,4,7,0,0
-2012,Central Missouri State,0,0,0,0
 2012,Cornell,0,0,0,0
 2012,Wyoming,0,0,0,0
 2012,Texas State,0,0,0,0
@@ -1791,7 +1635,6 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2012,Maine,1,3,0,0
 2012,Rutgers,1,4,0,0
 2012,Kent State,0,0,0,0
-2012,Lane,0,0,0,0
 2012,San José State,0,0,0,0
 2012,Northern Illinois,1,1,0,0
 2012,South Florida,0,0,0,0
@@ -1799,50 +1642,39 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2012,Towson,0,0,0,0
 2012,Florida International,1,4,0,0
 2012,North Carolina Central,0,0,0,0
-2012,Wingate,0,0,0,0
 2012,Alabama A&M,0,0,0,0
 2012,New Hampshire,0,0,0,0
 2012,Arkansas State,1,4,0,0
-2012,Nicholls State,0,0,0,0
+2012,Nicholls,0,0,0,0
 2012,SMU,4,8,0,0
 2012,Portland State,0,0,0,0
 2012,Central Arkansas,0,0,0,0
 2012,Central Connecticut,0,0,0,0
 2012,Delaware,1,3,0,0
 2012,Coastal Carolina,1,2,0,0
-2012,Whitworth,0,0,0,0
-2012,UW-Whitewater,0,0,0,0
 2012,Elon,0,0,0,0
 2012,Tennessee State,0,0,0,0
 2012,App State,1,5,0,1
 2012,Eastern Kentucky,0,0,0,0
-2012,McNeese State,0,0,0,0
+2012,McNeese,0,0,0,0
 2012,Northern Iowa,0,0,0,0
-2012,Winston-Salem,0,0,0,0
 2012,Utah State,3,9,0,1
 2012,Richmond,0,0,0,0
 2012,San Diego,0,0,0,0
 2012,Middle Tennessee,0,0,0,0
 2012,Buffalo,0,0,0,0
 2012,Jackson State,0,0,0,0
-2012,Wheaton College (Ill),0,0,0,0
 2012,Villanova,0,0,0,0
 2012,Gardner-Webb,0,0,0,0
 2012,Ohio,1,1,0,0
 2012,Army,0,0,0,0
-2012,St. Augustine's,0,0,0,0
-2012,Bentley,0,0,0,0
 2012,Idaho,1,2,0,0
 2012,Western Illinois,0,0,0,0
 2012,William & Mary,0,0,0,0
-2012,Western Ontario,0,0,0,0
-2012,Stillman,0,0,0,0
-2012,St. Paul's College,0,0,0,0
 2012,Rice,1,1,0,0
 2012,Sam Houston,0,0,0,0
 2012,Monmouth,0,0,0,0
 2012,Norfolk State,0,0,0,0
-2012,Nebraska-Omaha,0,0,0,0
 2012,Stephen F. Austin,0,0,0,0
 2012,Liberty,0,0,0,0
 2012,Massachusetts,0,0,0,0
@@ -1901,7 +1733,7 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2013,Texas,3,14,1,0
 2013,West Virginia,3,16,1,1
 2013,South Carolina,7,17,0,1
-2013,Miami (FL),0,0,0,0
+2013,Miami,2,3,0,0
 2013,USC,4,15,0,1
 2013,Troy,0,0,0,0
 2013,Maryland,1,1,0,0
@@ -1948,7 +1780,7 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2013,Iowa State,2,3,0,0
 2013,Missouri,2,11,1,0
 2013,Cal Poly,0,0,0,0
-2013,North Carolina State,0,0,0,0
+2013,NC State,3,11,0,1
 2013,Kentucky,1,4,0,0
 2013,Oregon,5,21,2,1
 2013,Toledo,0,0,0,0
@@ -1988,23 +1820,16 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2013,Baylor,1,4,0,0
 2013,Michigan State,3,11,0,1
 2013,Marshall,1,5,0,1
-2013,Michigan Tech,0,0,0,0
 2013,Pittsburgh,0,0,0,0
 2013,UTEP,0,0,0,0
 2013,The Citadel,0,0,0,0
-2013,Grambling State,0,0,0,0
 2013,Tulsa,0,0,0,0
 2013,Eastern Michigan,0,0,0,0
 2013,Northern Arizona,0,0,0,0
-2013,Tuskegee,0,0,0,0
 2013,Bowling Green,1,1,0,0
-2013,Albany,0,0,0,0
 2013,Harvard,1,3,0,0
-2013,William Penn,0,0,0,0
-2013,NC State,3,11,0,1
 2013,Penn State,4,9,0,0
 2013,Memphis,0,0,0,0
-2013,Miami,2,3,0,0
 2013,Boston College,0,0,0,0
 2013,Colorado,2,4,0,0
 2013,Boise State,1,5,0,1
@@ -2015,11 +1840,9 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2013,Georgia Tech,0,0,0,0
 2013,UCF,2,2,0,0
 2013,East Carolina,0,0,0,0
-2013,Hofstra,0,0,0,0
 2013,Furman,0,0,0,0
 2013,North Dakota,0,0,0,0
 2013,Nevada,2,4,0,0
-2013,Central Missouri State,0,0,0,0
 2013,Cornell,1,3,0,0
 2013,Wyoming,0,0,0,0
 2013,Texas State,0,0,0,0
@@ -2028,7 +1851,6 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2013,Maine,0,0,0,0
 2013,Rutgers,7,15,0,0
 2013,Kent State,1,4,0,0
-2013,Lane,0,0,0,0
 2013,San José State,1,1,0,0
 2013,Northern Illinois,0,0,0,0
 2013,South Florida,3,6,0,0
@@ -2036,50 +1858,39 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2013,Towson,0,0,0,0
 2013,Florida International,2,6,0,1
 2013,North Carolina Central,0,0,0,0
-2013,Wingate,0,0,0,0
 2013,Alabama A&M,0,0,0,0
 2013,New Hampshire,1,1,0,0
 2013,Arkansas State,1,1,0,0
-2013,Nicholls State,0,0,0,0
+2013,Nicholls,0,0,0,0
 2013,SMU,1,5,0,1
 2013,Portland State,0,0,0,0
 2013,Central Arkansas,0,0,0,0
 2013,Central Connecticut,0,0,0,0
 2013,Delaware,0,0,0,0
 2013,Coastal Carolina,0,0,0,0
-2013,Whitworth,0,0,0,0
-2013,UW-Whitewater,0,0,0,0
 2013,Elon,1,1,0,0
 2013,Tennessee State,0,0,0,0
 2013,App State,2,3,0,0
 2013,Eastern Kentucky,0,0,0,0
-2013,McNeese State,0,0,0,0
+2013,McNeese,0,0,0,0
 2013,Northern Iowa,0,0,0,0
-2013,Winston-Salem,0,0,0,0
 2013,Utah State,2,5,0,0
 2013,Richmond,1,2,0,0
 2013,San Diego,0,0,0,0
 2013,Middle Tennessee,0,0,0,0
 2013,Buffalo,1,2,0,0
 2013,Jackson State,0,0,0,0
-2013,Wheaton College (Ill),0,0,0,0
 2013,Villanova,0,0,0,0
 2013,Gardner-Webb,0,0,0,0
 2013,Ohio,1,1,0,0
 2013,Army,0,0,0,0
-2013,St. Augustine's,0,0,0,0
-2013,Bentley,0,0,0,0
 2013,Idaho,0,0,0,0
 2013,Western Illinois,0,0,0,0
 2013,William & Mary,1,3,0,0
-2013,Western Ontario,0,0,0,0
-2013,Stillman,0,0,0,0
-2013,St. Paul's College,0,0,0,0
 2013,Rice,2,7,0,1
 2013,Sam Houston,0,0,0,0
 2013,Monmouth,0,0,0,0
 2013,Norfolk State,0,0,0,0
-2013,Nebraska-Omaha,0,0,0,0
 2013,Stephen F. Austin,0,0,0,0
 2013,Liberty,0,0,0,0
 2013,Massachusetts,1,1,0,0
@@ -2138,7 +1949,7 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2014,Texas,0,0,0,0
 2014,West Virginia,2,8,0,0
 2014,South Carolina,2,10,1,0
-2014,Miami (FL),0,0,0,0
+2014,Miami,3,6,0,0
 2014,USC,3,11,0,1
 2014,Troy,0,0,0,0
 2014,Maryland,1,4,0,0
@@ -2185,7 +1996,7 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2014,Iowa State,1,2,0,0
 2014,Missouri,4,12,0,2
 2014,Cal Poly,0,0,0,0
-2014,North Carolina State,0,0,0,0
+2014,NC State,1,3,0,0
 2014,Kentucky,1,2,0,0
 2014,Oregon,4,10,0,0
 2014,Toledo,0,0,0,0
@@ -2225,23 +2036,16 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2014,Baylor,5,6,0,0
 2014,Michigan State,1,7,1,0
 2014,Marshall,1,1,0,0
-2014,Michigan Tech,0,0,0,0
 2014,Pittsburgh,3,12,1,0
 2014,UTEP,0,0,0,0
 2014,The Citadel,0,0,0,0
-2014,Grambling State,0,0,0,0
 2014,Tulsa,0,0,0,0
 2014,Eastern Michigan,0,0,0,0
 2014,Northern Arizona,0,0,0,0
-2014,Tuskegee,0,0,0,0
 2014,Bowling Green,0,0,0,0
-2014,Albany,0,0,0,0
 2014,Harvard,0,0,0,0
-2014,William Penn,0,0,0,0
-2014,NC State,1,3,0,0
 2014,Penn State,3,10,0,1
 2014,Memphis,1,1,0,0
-2014,Miami,3,6,0,0
 2014,Boston College,4,8,0,0
 2014,Colorado,1,5,0,1
 2014,Boise State,3,7,0,1
@@ -2252,11 +2056,9 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2014,Georgia Tech,3,7,0,1
 2014,UCF,2,8,1,0
 2014,East Carolina,0,0,0,0
-2014,Hofstra,0,0,0,0
 2014,Furman,1,3,0,0
 2014,North Dakota,0,0,0,0
 2014,Nevada,1,5,0,1
-2014,Central Missouri State,0,0,0,0
 2014,Cornell,0,0,0,0
 2014,Wyoming,2,4,0,0
 2014,Texas State,0,0,0,0
@@ -2265,7 +2067,6 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2014,Maine,1,1,0,0
 2014,Rutgers,0,0,0,0
 2014,Kent State,1,4,0,0
-2014,Lane,0,0,0,0
 2014,San José State,2,3,0,0
 2014,Northern Illinois,2,8,1,0
 2014,South Florida,1,2,0,0
@@ -2273,50 +2074,39 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2014,Towson,1,4,0,0
 2014,Florida International,0,0,0,0
 2014,North Carolina Central,0,0,0,0
-2014,Wingate,0,0,0,0
 2014,Alabama A&M,0,0,0,0
 2014,New Hampshire,0,0,0,0
 2014,Arkansas State,1,2,0,0
-2014,Nicholls State,0,0,0,0
+2014,Nicholls,0,0,0,0
 2014,SMU,2,2,0,0
 2014,Portland State,1,1,0,0
 2014,Central Arkansas,0,0,0,0
 2014,Central Connecticut,0,0,0,0
 2014,Delaware,0,0,0,0
 2014,Coastal Carolina,2,4,0,0
-2014,Whitworth,0,0,0,0
-2014,UW-Whitewater,0,0,0,0
 2014,Elon,0,0,0,0
 2014,Tennessee State,2,3,0,0
 2014,App State,0,0,0,0
 2014,Eastern Kentucky,0,0,0,0
-2014,McNeese State,0,0,0,0
+2014,McNeese,0,0,0,0
 2014,Northern Iowa,0,0,0,0
-2014,Winston-Salem,0,0,0,0
 2014,Utah State,2,6,0,0
 2014,Richmond,0,0,0,0
 2014,San Diego,0,0,0,0
 2014,Middle Tennessee,1,2,0,0
 2014,Buffalo,1,7,1,0
 2014,Jackson State,0,0,0,0
-2014,Wheaton College (Ill),0,0,0,0
 2014,Villanova,0,0,0,0
 2014,Gardner-Webb,0,0,0,0
 2014,Ohio,1,1,0,0
 2014,Army,0,0,0,0
-2014,St. Augustine's,0,0,0,0
-2014,Bentley,0,0,0,0
 2014,Idaho,0,0,0,0
 2014,Western Illinois,0,0,0,0
 2014,William & Mary,0,0,0,0
-2014,Western Ontario,0,0,0,0
-2014,Stillman,0,0,0,0
-2014,St. Paul's College,0,0,0,0
 2014,Rice,1,4,0,0
 2014,Sam Houston,0,0,0,0
 2014,Monmouth,0,0,0,0
 2014,Norfolk State,0,0,0,0
-2014,Nebraska-Omaha,0,0,0,0
 2014,Stephen F. Austin,0,0,0,0
 2014,Liberty,1,3,0,0
 2014,Massachusetts,1,1,0,0
@@ -2375,7 +2165,7 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2015,Texas,5,15,1,0
 2015,West Virginia,4,13,1,0
 2015,South Carolina,4,9,0,0
-2015,Miami (FL),0,0,0,0
+2015,Miami,7,31,2,1
 2015,USC,6,22,2,0
 2015,Troy,0,0,0,0
 2015,Maryland,2,3,0,0
@@ -2422,7 +2212,7 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2015,Iowa State,0,0,0,0
 2015,Missouri,6,24,1,3
 2015,Cal Poly,0,0,0,0
-2015,North Carolina State,0,0,0,0
+2015,NC State,0,0,0,0
 2015,Kentucky,2,10,1,0
 2015,Oregon,5,24,2,1
 2015,Toledo,0,0,0,0
@@ -2462,23 +2252,16 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2015,Baylor,2,4,0,0
 2015,Michigan State,4,14,1,0
 2015,Marshall,1,1,0,0
-2015,Michigan Tech,0,0,0,0
 2015,Pittsburgh,1,3,0,0
 2015,UTEP,0,0,0,0
 2015,The Citadel,0,0,0,0
-2015,Grambling State,0,0,0,0
 2015,Tulsa,0,0,0,0
 2015,Eastern Michigan,0,0,0,0
 2015,Northern Arizona,0,0,0,0
-2015,Tuskegee,0,0,0,0
 2015,Bowling Green,0,0,0,0
-2015,Albany,0,0,0,0
 2015,Harvard,0,0,0,0
-2015,William Penn,0,0,0,0
-2015,NC State,0,0,0,0
 2015,Penn State,3,9,0,1
 2015,Memphis,2,3,0,0
-2015,Miami,7,31,2,1
 2015,Boston College,3,3,0,0
 2015,Colorado,0,0,0,0
 2015,Boise State,1,2,0,0
@@ -2489,11 +2272,9 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2015,Georgia Tech,3,7,0,0
 2015,UCF,2,10,1,0
 2015,East Carolina,1,3,0,0
-2015,Hofstra,0,0,0,0
 2015,Furman,0,0,0,0
 2015,North Dakota,0,0,0,0
 2015,Nevada,0,0,0,0
-2015,Central Missouri State,0,0,0,0
 2015,Cornell,0,0,0,0
 2015,Wyoming,1,1,0,0
 2015,Texas State,2,6,0,0
@@ -2502,7 +2283,6 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2015,Maine,0,0,0,0
 2015,Rutgers,2,6,0,0
 2015,Kent State,0,0,0,0
-2015,Lane,0,0,0,0
 2015,San José State,1,1,0,0
 2015,Northern Illinois,1,1,0,0
 2015,South Florida,2,2,0,0
@@ -2510,50 +2290,39 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2015,Towson,1,2,0,0
 2015,Florida International,0,0,0,0
 2015,North Carolina Central,0,0,0,0
-2015,Wingate,0,0,0,0
 2015,Alabama A&M,0,0,0,0
 2015,New Hampshire,0,0,0,0
 2015,Arkansas State,0,0,0,0
-2015,Nicholls State,0,0,0,0
+2015,Nicholls,0,0,0,0
 2015,SMU,0,0,0,0
 2015,Portland State,0,0,0,0
 2015,Central Arkansas,1,1,0,0
 2015,Central Connecticut,0,0,0,0
 2015,Delaware,1,2,0,0
 2015,Coastal Carolina,0,0,0,0
-2015,Whitworth,0,0,0,0
-2015,UW-Whitewater,0,0,0,0
 2015,Elon,0,0,0,0
 2015,Tennessee State,2,3,0,0
 2015,App State,0,0,0,0
 2015,Eastern Kentucky,0,0,0,0
-2015,McNeese State,0,0,0,0
+2015,McNeese,0,0,0,0
 2015,Northern Iowa,1,4,0,0
-2015,Winston-Salem,0,0,0,0
 2015,Utah State,0,0,0,0
 2015,Richmond,0,0,0,0
 2015,San Diego,0,0,0,0
 2015,Middle Tennessee,0,0,0,0
 2015,Buffalo,1,1,0,0
 2015,Jackson State,0,0,0,0
-2015,Wheaton College (Ill),0,0,0,0
 2015,Villanova,0,0,0,0
 2015,Gardner-Webb,0,0,0,0
 2015,Ohio,0,0,0,0
 2015,Army,0,0,0,0
-2015,St. Augustine's,0,0,0,0
-2015,Bentley,0,0,0,0
 2015,Idaho,0,0,0,0
 2015,Western Illinois,0,0,0,0
 2015,William & Mary,1,1,0,0
-2015,Western Ontario,0,0,0,0
-2015,Stillman,0,0,0,0
-2015,St. Paul's College,0,0,0,0
 2015,Rice,1,1,0,0
 2015,Sam Houston,0,0,0,0
 2015,Monmouth,1,1,0,0
 2015,Norfolk State,0,0,0,0
-2015,Nebraska-Omaha,0,0,0,0
 2015,Stephen F. Austin,0,0,0,0
 2015,Liberty,0,0,0,0
 2015,Massachusetts,0,0,0,0
@@ -2612,7 +2381,7 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2016,Texas,1,3,0,0
 2016,West Virginia,5,18,1,0
 2016,South Carolina,3,6,0,0
-2016,Miami (FL),0,0,0,0
+2016,Miami,2,10,1,0
 2016,USC,4,14,0,1
 2016,Troy,0,0,0,0
 2016,Maryland,3,11,0,1
@@ -2659,7 +2428,7 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2016,Iowa State,0,0,0,0
 2016,Missouri,3,7,0,0
 2016,Cal Poly,0,0,0,0
-2016,North Carolina State,0,0,0,0
+2016,NC State,3,11,0,0
 2016,Kentucky,1,1,0,0
 2016,Oregon,2,8,1,0
 2016,Toledo,0,0,0,0
@@ -2699,23 +2468,16 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2016,Baylor,6,19,1,1
 2016,Michigan State,5,16,1,0
 2016,Marshall,0,0,0,0
-2016,Michigan Tech,0,0,0,0
 2016,Pittsburgh,1,5,0,1
 2016,UTEP,0,0,0,0
 2016,The Citadel,0,0,0,0
-2016,Grambling State,0,0,0,0
 2016,Tulsa,0,0,0,0
 2016,Eastern Michigan,1,1,0,0
 2016,Northern Arizona,0,0,0,0
-2016,Tuskegee,0,0,0,0
 2016,Bowling Green,0,0,0,0
-2016,Albany,0,0,0,0
 2016,Harvard,1,2,0,0
-2016,William Penn,0,0,0,0
-2016,NC State,3,11,0,0
 2016,Penn State,5,16,0,2
 2016,Memphis,1,7,1,0
-2016,Miami,2,10,1,0
 2016,Boston College,2,5,0,0
 2016,Colorado,0,0,0,0
 2016,Boise State,3,13,0,1
@@ -2726,11 +2488,9 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2016,Georgia Tech,2,6,0,1
 2016,UCF,0,0,0,0
 2016,East Carolina,0,0,0,0
-2016,Hofstra,0,0,0,0
 2016,Furman,0,0,0,0
 2016,North Dakota,0,0,0,0
 2016,Nevada,0,0,0,0
-2016,Central Missouri State,0,0,0,0
 2016,Cornell,0,0,0,0
 2016,Wyoming,0,0,0,0
 2016,Texas State,0,0,0,0
@@ -2739,7 +2499,6 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2016,Maine,1,1,0,0
 2016,Rutgers,1,4,0,0
 2016,Kent State,0,0,0,0
-2016,Lane,0,0,0,0
 2016,San José State,2,4,0,0
 2016,Northern Illinois,0,0,0,0
 2016,South Florida,0,0,0,0
@@ -2747,50 +2506,39 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2016,Towson,0,0,0,0
 2016,Florida International,0,0,0,0
 2016,North Carolina Central,1,3,0,0
-2016,Wingate,0,0,0,0
 2016,Alabama A&M,0,0,0,0
 2016,New Hampshire,0,0,0,0
 2016,Arkansas State,0,0,0,0
-2016,Nicholls State,0,0,0,0
+2016,Nicholls,0,0,0,0
 2016,SMU,0,0,0,0
 2016,Portland State,0,0,0,0
 2016,Central Arkansas,1,1,0,0
 2016,Central Connecticut,0,0,0,0
 2016,Delaware,0,0,0,0
 2016,Coastal Carolina,0,0,0,0
-2016,Whitworth,0,0,0,0
-2016,UW-Whitewater,0,0,0,0
 2016,Elon,0,0,0,0
 2016,Tennessee State,0,0,0,0
 2016,App State,1,2,0,0
 2016,Eastern Kentucky,1,5,0,1
-2016,McNeese State,0,0,0,0
+2016,McNeese,0,0,0,0
 2016,Northern Iowa,1,3,0,0
-2016,Winston-Salem,0,0,0,0
 2016,Utah State,2,8,0,0
 2016,Richmond,0,0,0,0
 2016,San Diego,0,0,0,0
 2016,Middle Tennessee,1,4,0,0
 2016,Buffalo,0,0,0,0
 2016,Jackson State,0,0,0,0
-2016,Wheaton College (Ill),0,0,0,0
 2016,Villanova,0,0,0,0
 2016,Gardner-Webb,0,0,0,0
 2016,Ohio,0,0,0,0
 2016,Army,0,0,0,0
-2016,St. Augustine's,0,0,0,0
-2016,Bentley,0,0,0,0
 2016,Idaho,0,0,0,0
 2016,Western Illinois,0,0,0,0
 2016,William & Mary,1,1,0,0
-2016,Western Ontario,0,0,0,0
-2016,Stillman,0,0,0,0
-2016,St. Paul's College,0,0,0,0
 2016,Rice,0,0,0,0
 2016,Sam Houston,1,1,0,0
 2016,Monmouth,0,0,0,0
 2016,Norfolk State,0,0,0,0
-2016,Nebraska-Omaha,0,0,0,0
 2016,Stephen F. Austin,0,0,0,0
 2016,Liberty,0,0,0,0
 2016,Massachusetts,1,2,0,0
@@ -2849,7 +2597,7 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2017,Texas,1,4,0,0
 2017,West Virginia,2,6,0,0
 2017,South Carolina,0,0,0,0
-2017,Miami (FL),0,0,0,0
+2017,Miami,9,19,1,0
 2017,USC,5,17,1,1
 2017,Troy,1,4,0,0
 2017,Maryland,0,0,0,0
@@ -2896,7 +2644,7 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2017,Iowa State,0,0,0,0
 2017,Missouri,1,7,1,0
 2017,Cal Poly,0,0,0,0
-2017,North Carolina State,0,0,0,0
+2017,NC State,3,7,0,1
 2017,Kentucky,0,0,0,0
 2017,Oregon,0,0,0,0
 2017,Toledo,3,8,0,0
@@ -2936,23 +2684,16 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2017,Baylor,1,1,0,0
 2017,Michigan State,2,8,0,1
 2017,Marshall,0,0,0,0
-2017,Michigan Tech,0,0,0,0
 2017,Pittsburgh,5,11,0,0
 2017,UTEP,1,2,0,0
 2017,The Citadel,0,0,0,0
-2017,Grambling State,0,0,0,0
 2017,Tulsa,0,0,0,0
 2017,Eastern Michigan,1,1,0,0
 2017,Northern Arizona,0,0,0,0
-2017,Tuskegee,0,0,0,0
 2017,Bowling Green,0,0,0,0
-2017,Albany,0,0,0,0
 2017,Harvard,0,0,0,0
-2017,William Penn,0,0,0,0
-2017,NC State,3,7,0,1
 2017,Penn State,1,4,0,0
 2017,Memphis,1,2,0,0
-2017,Miami,9,19,1,0
 2017,Boston College,2,6,0,0
 2017,Colorado,4,13,0,1
 2017,Boise State,2,3,0,0
@@ -2963,11 +2704,9 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2017,Georgia Tech,1,1,0,0
 2017,UCF,1,4,0,0
 2017,East Carolina,1,5,0,1
-2017,Hofstra,0,0,0,0
 2017,Furman,0,0,0,0
 2017,North Dakota,0,0,0,0
 2017,Nevada,0,0,0,0
-2017,Central Missouri State,0,0,0,0
 2017,Cornell,0,0,0,0
 2017,Wyoming,2,3,0,0
 2017,Texas State,0,0,0,0
@@ -2976,7 +2715,6 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2017,Maine,0,0,0,0
 2017,Rutgers,0,0,0,0
 2017,Kent State,0,0,0,0
-2017,Lane,0,0,0,0
 2017,San José State,0,0,0,0
 2017,Northern Illinois,1,4,0,0
 2017,South Florida,3,6,0,0
@@ -2984,50 +2722,39 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2017,Towson,0,0,0,0
 2017,Florida International,1,4,0,0
 2017,North Carolina Central,0,0,0,0
-2017,Wingate,0,0,0,0
 2017,Alabama A&M,0,0,0,0
 2017,New Hampshire,0,0,0,0
 2017,Arkansas State,0,0,0,0
-2017,Nicholls State,0,0,0,0
+2017,Nicholls,0,0,0,0
 2017,SMU,0,0,0,0
 2017,Portland State,0,0,0,0
 2017,Central Arkansas,0,0,0,0
 2017,Central Connecticut,0,0,0,0
 2017,Delaware,0,0,0,0
 2017,Coastal Carolina,1,1,0,0
-2017,Whitworth,0,0,0,0
-2017,UW-Whitewater,0,0,0,0
 2017,Elon,0,0,0,0
 2017,Tennessee State,0,0,0,0
 2017,App State,0,0,0,0
 2017,Eastern Kentucky,0,0,0,0
-2017,McNeese State,0,0,0,0
+2017,McNeese,0,0,0,0
 2017,Northern Iowa,0,0,0,0
-2017,Winston-Salem,0,0,0,0
 2017,Utah State,1,1,0,0
 2017,Richmond,0,0,0,0
 2017,San Diego,1,2,0,0
 2017,Middle Tennessee,0,0,0,0
 2017,Buffalo,1,1,0,0
 2017,Jackson State,0,0,0,0
-2017,Wheaton College (Ill),0,0,0,0
 2017,Villanova,2,6,0,1
 2017,Gardner-Webb,0,0,0,0
 2017,Ohio,2,6,0,0
 2017,Army,0,0,0,0
-2017,St. Augustine's,0,0,0,0
-2017,Bentley,0,0,0,0
 2017,Idaho,0,0,0,0
 2017,Western Illinois,0,0,0,0
 2017,William & Mary,0,0,0,0
-2017,Western Ontario,0,0,0,0
-2017,Stillman,0,0,0,0
-2017,St. Paul's College,0,0,0,0
 2017,Rice,0,0,0,0
 2017,Sam Houston,0,0,0,0
 2017,Monmouth,0,0,0,0
 2017,Norfolk State,0,0,0,0
-2017,Nebraska-Omaha,0,0,0,0
 2017,Stephen F. Austin,0,0,0,0
 2017,Liberty,0,0,0,0
 2017,Massachusetts,0,0,0,0
@@ -3086,7 +2813,7 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2018,Texas,4,12,0,1
 2018,West Virginia,1,3,0,0
 2018,South Carolina,1,7,1,0
-2018,Miami (FL),0,0,0,0
+2018,Miami,6,14,0,0
 2018,USC,4,21,1,2
 2018,Troy,0,0,0,0
 2018,Maryland,2,9,1,0
@@ -3133,7 +2860,7 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2018,Iowa State,0,0,0,0
 2018,Missouri,1,3,0,0
 2018,Cal Poly,0,0,0,0
-2018,North Carolina State,0,0,0,0
+2018,NC State,7,26,1,0
 2018,Kentucky,0,0,0,0
 2018,Oregon,2,6,0,0
 2018,Toledo,1,1,0,0
@@ -3173,23 +2900,16 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2018,Baylor,0,0,0,0
 2018,Michigan State,1,3,0,0
 2018,Marshall,0,0,0,0
-2018,Michigan Tech,0,0,0,0
 2018,Pittsburgh,3,11,0,1
 2018,UTEP,1,5,0,1
 2018,The Citadel,0,0,0,0
-2018,Grambling State,0,0,0,0
 2018,Tulsa,0,0,0,0
 2018,Eastern Michigan,0,0,0,0
 2018,Northern Arizona,0,0,0,0
-2018,Tuskegee,0,0,0,0
 2018,Bowling Green,0,0,0,0
-2018,Albany,0,0,0,0
 2018,Harvard,0,0,0,0
-2018,William Penn,0,0,0,0
-2018,NC State,7,26,1,0
 2018,Penn State,6,21,1,1
 2018,Memphis,2,7,0,1
-2018,Miami,6,14,0,0
 2018,Boston College,3,10,0,1
 2018,Colorado,1,5,0,1
 2018,Boise State,2,8,1,0
@@ -3200,11 +2920,9 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2018,Georgia Tech,0,0,0,0
 2018,UCF,4,17,1,0
 2018,East Carolina,0,0,0,0
-2018,Hofstra,0,0,0,0
 2018,Furman,0,0,0,0
 2018,North Dakota,0,0,0,0
 2018,Nevada,1,5,0,1
-2018,Central Missouri State,0,0,0,0
 2018,Cornell,0,0,0,0
 2018,Wyoming,1,7,1,0
 2018,Texas State,0,0,0,0
@@ -3213,7 +2931,6 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2018,Maine,1,1,0,0
 2018,Rutgers,2,6,0,1
 2018,Kent State,0,0,0,0
-2018,Lane,0,0,0,0
 2018,San José State,1,1,0,0
 2018,Northern Illinois,0,0,0,0
 2018,South Florida,2,6,0,0
@@ -3221,50 +2938,39 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2018,Towson,0,0,0,0
 2018,Florida International,1,1,0,0
 2018,North Carolina Central,0,0,0,0
-2018,Wingate,0,0,0,0
 2018,Alabama A&M,0,0,0,0
 2018,New Hampshire,0,0,0,0
 2018,Arkansas State,0,0,0,0
-2018,Nicholls State,0,0,0,0
+2018,Nicholls,0,0,0,0
 2018,SMU,3,7,0,1
 2018,Portland State,0,0,0,0
 2018,Central Arkansas,1,1,0,0
 2018,Central Connecticut,0,0,0,0
 2018,Delaware,1,2,0,0
 2018,Coastal Carolina,0,0,0,0
-2018,Whitworth,0,0,0,0
-2018,UW-Whitewater,0,0,0,0
 2018,Elon,0,0,0,0
 2018,Tennessee State,0,0,0,0
 2018,App State,1,1,0,0
 2018,Eastern Kentucky,0,0,0,0
-2018,McNeese State,0,0,0,0
+2018,McNeese,0,0,0,0
 2018,Northern Iowa,1,2,0,0
-2018,Winston-Salem,0,0,0,0
 2018,Utah State,0,0,0,0
 2018,Richmond,1,3,0,0
 2018,San Diego,0,0,0,0
 2018,Middle Tennessee,1,1,0,0
 2018,Buffalo,0,0,0,0
 2018,Jackson State,0,0,0,0
-2018,Wheaton College (Ill),0,0,0,0
 2018,Villanova,0,0,0,0
 2018,Gardner-Webb,0,0,0,0
 2018,Ohio,1,1,0,0
 2018,Army,0,0,0,0
-2018,St. Augustine's,0,0,0,0
-2018,Bentley,0,0,0,0
 2018,Idaho,0,0,0,0
 2018,Western Illinois,0,0,0,0
 2018,William & Mary,0,0,0,0
-2018,Western Ontario,0,0,0,0
-2018,Stillman,0,0,0,0
-2018,St. Paul's College,0,0,0,0
 2018,Rice,0,0,0,0
 2018,Sam Houston,1,5,0,1
 2018,Monmouth,0,0,0,0
 2018,Norfolk State,0,0,0,0
-2018,Nebraska-Omaha,0,0,0,0
 2018,Stephen F. Austin,1,3,0,0
 2018,Liberty,0,0,0,0
 2018,Massachusetts,0,0,0,0
@@ -3323,7 +3029,7 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2019,Texas,2,3,0,0
 2019,West Virginia,5,15,0,0
 2019,South Carolina,3,7,0,1
-2019,Miami (FL),0,0,0,0
+2019,Miami,5,9,0,0
 2019,USC,4,11,0,0
 2019,Troy,0,0,0,0
 2019,Maryland,4,11,1,0
@@ -3370,7 +3076,7 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2019,Iowa State,2,7,0,0
 2019,Missouri,2,6,0,1
 2019,Cal Poly,0,0,0,0
-2019,North Carolina State,0,0,0,0
+2019,NC State,4,15,1,0
 2019,Kentucky,5,20,1,1
 2019,Oregon,4,7,0,0
 2019,Toledo,2,5,0,0
@@ -3410,23 +3116,16 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2019,Baylor,1,4,0,0
 2019,Michigan State,2,7,0,0
 2019,Marshall,0,0,0,0
-2019,Michigan Tech,0,0,0,0
 2019,Pittsburgh,1,2,0,0
 2019,UTEP,0,0,0,0
 2019,The Citadel,0,0,0,0
-2019,Grambling State,0,0,0,0
 2019,Tulsa,0,0,0,0
 2019,Eastern Michigan,1,3,0,0
 2019,Northern Arizona,0,0,0,0
-2019,Tuskegee,0,0,0,0
 2019,Bowling Green,1,1,0,0
-2019,Albany,0,0,0,0
 2019,Harvard,0,0,0,0
-2019,William Penn,0,0,0,0
-2019,NC State,4,15,1,0
 2019,Penn State,6,16,0,1
 2019,Memphis,2,7,0,0
-2019,Miami,5,9,0,0
 2019,Boston College,4,16,1,0
 2019,Colorado,1,1,0,0
 2019,Boise State,1,4,0,0
@@ -3437,11 +3136,9 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2019,Georgia Tech,0,0,0,0
 2019,UCF,1,5,0,1
 2019,East Carolina,0,0,0,0
-2019,Hofstra,0,0,0,0
 2019,Furman,0,0,0,0
 2019,North Dakota,0,0,0,0
 2019,Nevada,0,0,0,0
-2019,Central Missouri State,0,0,0,0
 2019,Cornell,0,0,0,0
 2019,Wyoming,1,1,0,0
 2019,Texas State,0,0,0,0
@@ -3450,7 +3147,6 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2019,Maine,0,0,0,0
 2019,Rutgers,2,2,0,0
 2019,Kent State,0,0,0,0
-2019,Lane,0,0,0,0
 2019,San José State,1,4,0,0
 2019,Northern Illinois,2,6,0,1
 2019,South Florida,0,0,0,0
@@ -3458,50 +3154,39 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2019,Towson,0,0,0,0
 2019,Florida International,0,0,0,0
 2019,North Carolina Central,0,0,0,0
-2019,Wingate,0,0,0,0
 2019,Alabama A&M,0,0,0,0
 2019,New Hampshire,0,0,0,0
 2019,Arkansas State,0,0,0,0
-2019,Nicholls State,0,0,0,0
+2019,Nicholls,0,0,0,0
 2019,SMU,0,0,0,0
 2019,Portland State,0,0,0,0
 2019,Central Arkansas,0,0,0,0
 2019,Central Connecticut,0,0,0,0
 2019,Delaware,1,5,0,1
 2019,Coastal Carolina,0,0,0,0
-2019,Whitworth,0,0,0,0
-2019,UW-Whitewater,0,0,0,0
 2019,Elon,1,1,0,0
 2019,Tennessee State,0,0,0,0
 2019,App State,0,0,0,0
 2019,Eastern Kentucky,0,0,0,0
-2019,McNeese State,0,0,0,0
+2019,McNeese,0,0,0,0
 2019,Northern Iowa,0,0,0,0
-2019,Winston-Salem,0,0,0,0
 2019,Utah State,1,1,0,0
 2019,Richmond,0,0,0,0
 2019,San Diego,0,0,0,0
 2019,Middle Tennessee,0,0,0,0
 2019,Buffalo,0,0,0,0
 2019,Jackson State,0,0,0,0
-2019,Wheaton College (Ill),0,0,0,0
 2019,Villanova,0,0,0,0
 2019,Gardner-Webb,0,0,0,0
 2019,Ohio,0,0,0,0
 2019,Army,0,0,0,0
-2019,St. Augustine's,0,0,0,0
-2019,Bentley,0,0,0,0
 2019,Idaho,1,1,0,0
 2019,Western Illinois,1,4,0,0
 2019,William & Mary,0,0,0,0
-2019,Western Ontario,0,0,0,0
-2019,Stillman,0,0,0,0
-2019,St. Paul's College,0,0,0,0
 2019,Rice,0,0,0,0
 2019,Sam Houston,0,0,0,0
 2019,Monmouth,0,0,0,0
 2019,Norfolk State,0,0,0,0
-2019,Nebraska-Omaha,0,0,0,0
 2019,Stephen F. Austin,0,0,0,0
 2019,Liberty,0,0,0,0
 2019,Massachusetts,1,5,0,1
@@ -3560,7 +3245,7 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2020,Texas,3,10,0,0
 2020,West Virginia,2,4,0,0
 2020,South Carolina,4,15,1,0
-2020,Miami (FL),0,0,0,0
+2020,Miami,4,9,0,0
 2020,USC,2,12,1,1
 2020,Troy,0,0,0,0
 2020,Maryland,2,4,0,0
@@ -3607,7 +3292,7 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2020,Iowa State,0,0,0,0
 2020,Missouri,2,7,0,0
 2020,Cal Poly,0,0,0,0
-2020,North Carolina State,0,0,0,0
+2020,NC State,2,3,0,0
 2020,Kentucky,2,7,0,0
 2020,Oregon,4,13,1,0
 2020,Toledo,0,0,0,0
@@ -3647,23 +3332,16 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2020,Baylor,4,10,0,1
 2020,Michigan State,2,4,0,0
 2020,Marshall,2,3,0,0
-2020,Michigan Tech,0,0,0,0
 2020,Pittsburgh,1,1,0,0
 2020,UTEP,0,0,0,0
 2020,The Citadel,0,0,0,0
-2020,Grambling State,0,0,0,0
 2020,Tulsa,2,5,0,0
 2020,Eastern Michigan,0,0,0,0
 2020,Northern Arizona,0,0,0,0
-2020,Tuskegee,0,0,0,0
 2020,Bowling Green,0,0,0,0
-2020,Albany,0,0,0,0
 2020,Harvard,0,0,0,0
-2020,William Penn,0,0,0,0
-2020,NC State,2,3,0,0
 2020,Penn State,5,15,0,2
 2020,Memphis,3,6,0,0
-2020,Miami,4,9,0,0
 2020,Boston College,1,5,0,1
 2020,Colorado,3,10,0,1
 2020,Boise State,3,9,0,1
@@ -3674,11 +3352,9 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2020,Georgia Tech,1,1,0,0
 2020,UCF,1,3,0,0
 2020,East Carolina,0,0,0,0
-2020,Hofstra,0,0,0,0
 2020,Furman,0,0,0,0
 2020,North Dakota,0,0,0,0
 2020,Nevada,0,0,0,0
-2020,Central Missouri State,0,0,0,0
 2020,Cornell,0,0,0,0
 2020,Wyoming,2,5,0,0
 2020,Texas State,0,0,0,0
@@ -3687,7 +3363,6 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2020,Maine,0,0,0,0
 2020,Rutgers,0,0,0,0
 2020,Kent State,0,0,0,0
-2020,Lane,0,0,0,0
 2020,San José State,0,0,0,0
 2020,Northern Illinois,0,0,0,0
 2020,South Florida,0,0,0,0
@@ -3695,50 +3370,39 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2020,Towson,0,0,0,0
 2020,Florida International,2,4,0,0
 2020,North Carolina Central,0,0,0,0
-2020,Wingate,0,0,0,0
 2020,Alabama A&M,0,0,0,0
 2020,New Hampshire,0,0,0,0
 2020,Arkansas State,0,0,0,0
-2020,Nicholls State,0,0,0,0
+2020,Nicholls,0,0,0,0
 2020,SMU,1,1,0,0
 2020,Portland State,0,0,0,0
 2020,Central Arkansas,0,0,0,0
 2020,Central Connecticut,0,0,0,0
 2020,Delaware,0,0,0,0
 2020,Coastal Carolina,0,0,0,0
-2020,Whitworth,0,0,0,0
-2020,UW-Whitewater,0,0,0,0
 2020,Elon,0,0,0,0
 2020,Tennessee State,1,1,0,0
 2020,App State,2,7,0,0
 2020,Eastern Kentucky,0,0,0,0
-2020,McNeese State,0,0,0,0
+2020,McNeese,0,0,0,0
 2020,Northern Iowa,0,0,0,0
-2020,Winston-Salem,0,0,0,0
 2020,Utah State,1,7,1,0
 2020,Richmond,0,0,0,0
 2020,San Diego,0,0,0,0
 2020,Middle Tennessee,0,0,0,0
 2020,Buffalo,0,0,0,0
 2020,Jackson State,0,0,0,0
-2020,Wheaton College (Ill),0,0,0,0
 2020,Villanova,0,0,0,0
 2020,Gardner-Webb,0,0,0,0
 2020,Ohio,0,0,0,0
 2020,Army,0,0,0,0
-2020,St. Augustine's,0,0,0,0
-2020,Bentley,0,0,0,0
 2020,Idaho,0,0,0,0
 2020,Western Illinois,0,0,0,0
 2020,William & Mary,0,0,0,0
-2020,Western Ontario,0,0,0,0
-2020,Stillman,0,0,0,0
-2020,St. Paul's College,0,0,0,0
 2020,Rice,0,0,0,0
 2020,Sam Houston,0,0,0,0
 2020,Monmouth,0,0,0,0
 2020,Norfolk State,0,0,0,0
-2020,Nebraska-Omaha,0,0,0,0
 2020,Stephen F. Austin,0,0,0,0
 2020,Liberty,1,3,0,0
 2020,Massachusetts,1,1,0,0
@@ -3797,7 +3461,7 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2021,Texas,5,14,0,1
 2021,West Virginia,1,2,0,0
 2021,South Carolina,4,13,1,0
-2021,Miami (FL),0,0,0,0
+2021,Miami,4,17,2,0
 2021,USC,5,16,1,0
 2021,Troy,0,0,0,0
 2021,Maryland,1,1,0,0
@@ -3844,7 +3508,7 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2021,Iowa State,1,3,0,0
 2021,Missouri,5,12,0,1
 2021,Cal Poly,0,0,0,0
-2021,North Carolina State,0,0,0,0
+2021,NC State,1,4,0,0
 2021,Kentucky,6,16,1,1
 2021,Oregon,5,16,1,1
 2021,Toledo,0,0,0,0
@@ -3884,23 +3548,16 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2021,Baylor,1,1,0,0
 2021,Michigan State,0,0,0,0
 2021,Marshall,1,3,0,0
-2021,Michigan Tech,0,0,0,0
 2021,Pittsburgh,6,12,0,0
 2021,UTEP,0,0,0,0
 2021,The Citadel,0,0,0,0
-2021,Grambling State,0,0,0,0
 2021,Tulsa,1,7,1,0
 2021,Eastern Michigan,0,0,0,0
 2021,Northern Arizona,0,0,0,0
-2021,Tuskegee,0,0,0,0
 2021,Bowling Green,0,0,0,0
-2021,Albany,0,0,0,0
 2021,Harvard,0,0,0,0
-2021,William Penn,0,0,0,0
-2021,NC State,1,4,0,0
 2021,Penn State,6,22,2,1
 2021,Memphis,1,2,0,0
-2021,Miami,4,17,2,0
 2021,Boston College,2,5,0,0
 2021,Colorado,1,1,0,0
 2021,Boise State,2,5,0,0
@@ -3911,11 +3568,9 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2021,Georgia Tech,2,2,0,0
 2021,UCF,5,14,0,1
 2021,East Carolina,1,3,0,0
-2021,Hofstra,0,0,0,0
 2021,Furman,0,0,0,0
 2021,North Dakota,0,0,0,0
 2021,Nevada,0,0,0,0
-2021,Central Missouri State,0,0,0,0
 2021,Cornell,0,0,0,0
 2021,Wyoming,0,0,0,0
 2021,Texas State,0,0,0,0
@@ -3924,7 +3579,6 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2021,Maine,0,0,0,0
 2021,Rutgers,0,0,0,0
 2021,Kent State,0,0,0,0
-2021,Lane,0,0,0,0
 2021,San José State,0,0,0,0
 2021,Northern Illinois,0,0,0,0
 2021,South Florida,0,0,0,0
@@ -3932,50 +3586,39 @@ year,team,total_picks,weighted_draft_score,first_round_picks,second_round_picks
 2021,Towson,0,0,0,0
 2021,Florida International,0,0,0,0
 2021,North Carolina Central,0,0,0,0
-2021,Wingate,0,0,0,0
 2021,Alabama A&M,0,0,0,0
 2021,New Hampshire,0,0,0,0
 2021,Arkansas State,0,0,0,0
-2021,Nicholls State,0,0,0,0
+2021,Nicholls,0,0,0,0
 2021,SMU,2,7,0,0
 2021,Portland State,0,0,0,0
 2021,Central Arkansas,1,3,0,0
 2021,Central Connecticut,0,0,0,0
 2021,Delaware,0,0,0,0
 2021,Coastal Carolina,1,1,0,0
-2021,Whitworth,0,0,0,0
-2021,UW-Whitewater,0,0,0,0
 2021,Elon,0,0,0,0
 2021,Tennessee State,0,0,0,0
 2021,App State,1,2,0,0
 2021,Eastern Kentucky,0,0,0,0
-2021,McNeese State,0,0,0,0
+2021,McNeese,0,0,0,0
 2021,Northern Iowa,2,7,0,0
-2021,Winston-Salem,0,0,0,0
 2021,Utah State,0,0,0,0
 2021,Richmond,0,0,0,0
 2021,San Diego,0,0,0,0
 2021,Middle Tennessee,0,0,0,0
 2021,Buffalo,1,4,0,0
 2021,Jackson State,0,0,0,0
-2021,Wheaton College (Ill),0,0,0,0
 2021,Villanova,0,0,0,0
 2021,Gardner-Webb,0,0,0,0
 2021,Ohio,0,0,0,0
 2021,Army,0,0,0,0
-2021,St. Augustine's,0,0,0,0
-2021,Bentley,0,0,0,0
 2021,Idaho,0,0,0,0
 2021,Western Illinois,0,0,0,0
 2021,William & Mary,0,0,0,0
-2021,Western Ontario,0,0,0,0
-2021,Stillman,0,0,0,0
-2021,St. Paul's College,0,0,0,0
 2021,Rice,0,0,0,0
 2021,Sam Houston,0,0,0,0
 2021,Monmouth,0,0,0,0
 2021,Norfolk State,0,0,0,0
-2021,Nebraska-Omaha,0,0,0,0
 2021,Stephen F. Austin,0,0,0,0
 2021,Liberty,0,0,0,0
 2021,Massachusetts,1,1,0,0
