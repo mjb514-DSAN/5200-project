@@ -1,8 +1,6 @@
 
-# theme.py — The Billion Dollar Teenagers
-# Unified theme for matplotlib, Plotly, and Altair
 
-# ── Color Palette ─────────────────────────────────────────────
+# color palette
 BACKGROUND     = "#FAF7F2"
 SURFACE        = "#F0EBE3"
 TEXT_PRIMARY   = "#1A1A2E"
@@ -31,7 +29,7 @@ CONF_COLORS = {
 FONT_TITLE = "Georgia"
 FONT_BODY  = "Helvetica Neue"
 
-# ── Matplotlib ────────────────────────────────────────────────
+# matplotlib
 import matplotlib as mpl
 import matplotlib.pyplot as plt
 
@@ -73,7 +71,7 @@ def set_mpl_theme():
         ]),
     })
 
-# ── Plotly ────────────────────────────────────────────────────
+# plotly
 import plotly.graph_objects as go
 import plotly.io as pio
 
@@ -125,7 +123,7 @@ def register_plotly_theme():
     )
     pio.templates.default = "bdt"
 
-# ── Altair ────────────────────────────────────────────────────
+# altair
 def bdt_altair_theme():
     return {
         "config": {
@@ -170,7 +168,7 @@ def bdt_altair_theme():
         }
     }
 
-# ── Helpers ───────────────────────────────────────────────────
+# signature
 def add_signature(ax, text="The Billion Dollar Teenagers"):
     ax.annotate(
         text,
@@ -187,7 +185,7 @@ def format_title(ax, title, subtitle=None):
         ax.text(0, 1.02, subtitle, transform=ax.transAxes,
                 fontsize=10, color=TEXT_SECONDARY)
 
-# ── Activate all ──────────────────────────────────────────────
+# activate all
 def activate_all():
     set_mpl_theme()
     register_plotly_theme()
