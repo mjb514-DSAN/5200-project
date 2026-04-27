@@ -1,3 +1,18 @@
 ---
 title: "AI Log"
 ---
+
+## Model
+- Used Claude Sonnet 4.6
+
+## Brainstorming
+- Found research papers to understand current literature on the topic
+
+## Writing
+- Proofreading / grammar checks in index and appendix
+- Titles of sections in index
+
+## AI Usage in Code
+- Debugging errors
+- Commenting
+- Help with formatting infographic

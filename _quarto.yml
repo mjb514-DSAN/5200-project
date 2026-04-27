@@ -19,8 +19,6 @@ website:
         text: About Me
       - href: appendix.qmd
         text: Technical Appendix
-      - href: data.qmd
-        text: Data and Methods
       - href: ai-log.qmd
         text: AI Usage log
 

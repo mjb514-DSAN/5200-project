@@ -51,7 +51,7 @@ The idea that players being drafted in 2010 has a positive association with wins
 
 Alabama and Tennessee share a lot in common. They both play in the South Eastern Conference (SEC), both have historic programs known for winning, and both recruit some of the best high schoolers in the country. However, during the 2005-2016 period, Alabama built a dynasty while Tennessee went from a top tier program to mediocre. Using their trajectories, we can understand more about how development actually plays a role in future winning.
 
-![Alabama and Tennessee Time Series](assets/case-study.png)
+![Alabama and Tennessee Case Study](assets/case-study.png)
 
 Looking at Alabama, upon Saban's arrival in 2007, the class he recruited exceeded NFL expectations. Players under his system went on to be drafted at a higher rate and in earlier rounds than their high school star rating would have predicted. After the development residual increases, wins increase in the following years. As wins increase, the recruiting rankings grow stronger. Meanwhile, Tennessee decreases their development residual below 0 in 2007, and this is followed by an immediate dip in their win percentage in 2008. Despite strong recruiting classes in the late 2000s, their development residual remains below 0 and as a result their win percentage stays low.
 
@@ -61,7 +61,7 @@ These two teams tell the clearest story, but the patter holds across many progra
 
 ```{=html}
 <iframe src="assets/explorer.html" 
-        width="100%" 
+        width="140%" 
         height="600px" 
         frameborder="0"
         style="border: none; display: block;">
@@ -78,7 +78,7 @@ Click the bars of the coaches with higher development residuals and notice where
 
 ```{=html}
 <iframe src="assets/linked_view.html" 
-        width="100%" 
+        width="140%" 
         height="600px" 
         frameborder="0"
         style="border: none; display: block;">
