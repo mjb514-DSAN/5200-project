@@ -1,0 +1,6 @@
+/.quarto/
+**/*.quarto_ipynb
+data/*.csv
+__pycache__/
+.DS_Store
+_site/

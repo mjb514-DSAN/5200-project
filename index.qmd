@@ -1,0 +1,45 @@
+---
+title: "The Billion Dollar Teenagers"
+---
+
+# The Fundamental Misunderstanding of College Football
+
+## Act 1: The World of College Recruiting and How Did We Get Here
+
+Every year, college football programs invest millions of dollars into recruiting high school athletes. Between talent showcases, scouting, and official visits, these programs have been paying millions in order to convince a 17 year old to commit to their school. With the addition of NIL, the investment has increased dramatically as programs are now paying athletes directly to sign to their school. Schools are in a bidding war against each other to sign an athlete, and some of the winning bids reach as high as $10 million. Spread that amongst the 20-30 recruits that each teams sign every year, and the investment is astronomical. From an outsider's perspective, it's worth asking what drives these schools to spend so much on high schoolers. 
+
+The willingness of these programs to pay up to $10 million comes from conventional thinking surrounding recruiting and winning in college athletics. The framework which has dominated college football for generations is that if you recruit the best athletes, then you are going to have an advantage on gameday so you will win more games. In theory, this idea makes sense. If you recruit the best 17 year olds in the country, then once they turn 22 they will be the best 22 year olds in the country, and you will have an advantage over every other team who is fielding worse players. This idea has been supported over the years as dynasties such as, Alabama in the 2010s, typically have a top 3 recruiting class every year. They continuously sign the best athletes in the country so they have a constant funnel of elite players. This thinking had gone unquestioned for decades. 
+
+Then, in 2026 something happened that nobody expected. The University of Indiana won the 2026 College Football National Championship without a single 5 star recruits on their roster. Indiana failed to attract any of the top high school athletes to their team, yet they were able to win in spite of that. Was it sheer luck that brought Indiana a national championship? Or, did they uncover something fundamental about what actually drives winning? The data has an asnwer, and it might surprise you.
+
+## Act 2: A First Look
+
+ I tracked recruiting rankings, win percentages, head coaching tenures, and draft outcomes across 168 FBS Schools from 2005 to 2016 to see if it could help answer these questions.
+
+![Scatterplot of Wins x Recruiting](assets/scatterplot1.png)
+
+The scatterplot above explores the relationship between recruiting and winning across 2005 to 2016, using averages of a team's win percentage and recruiting points over the 11 year span. It corroborates conventional thinking, as programs that recruit better tend to also win more games (r=.61). Alabama stands out in the top right corner as the blueprint for what it means to be successful. One of the highest win percentages and the best recruiter in college football over the period. However, the relationship isn't as strong as conventional wisdom would say. Teams like Boise State act as stark outliers. They don't recruit well, but they win at an elite level. On the other hand, Tennessee and Kansas are both strong recruiters who have failed to win with those recruits. The variance across the plot is large enough to raise questions. Teams can have the same recruiting level but completely different win percentages. Recruiting points you in the right direction, but it's not the full story. Overall, this plot agrees with the idea that recruiting and winning typically have a positive relationship. However, is it because teams recruit better athletes and win because of it, or do teams win and then recruit better athletes after the fact, or are there hidden mechanisms working to prop this relationship up?
+
+## Act 3: The Plot Twist
+
+To dig deeper into the relationship of recruiting and winning, what signing recruits today actually does for your team in the future. When a recruit first gets on campus, they typically aren't expected to become a starting player until 2 to 3 years later. This is for many factors. Older players are more physically developed, they understand the playbook better, and they've had more time to sharpen their skills. This is why you rarely see freshman playing. So the real question that we should be asking is how does a recruiting class affect the wins in the future. 
+
+In addition to understanding how recruiting affects future wins, we must also explore other machanisms. The two additional mechanisms that I chose to explore were NFL Draft Results and Development Levels. To add a specific numerical value to NFL draft results for college teams, I assigned point values for each round of the draft that a player can be selected. A 1st round selection = 7 points (the best players are selected in the first round), 2nd round selection = 6 points, 3th round = 5... until the 7th round = 1 point. I add these up for each player that a specific team has selected in the draft for a given year, and that is the team's NFL Draft Score for that year. 
+
+The second mechanism that I wanted to explore is the idea of development. Development is the idea of how much a player changed in skill level from their freshmen year to their senior year. In order to assign a numerical value to development, I measured the gap between how much NFL talent a program actually produced versus how much their recruiting rankings would predict. Programs that produce more NFL talent than expected have a positive development residual, meaning they're developing their players beyond their star rating. Programs that produce less than expected have a negative development residual. 
+
+Combining all three of these ideas together, I chose to explore the relationship between recruiting, NFL Draft Results, and Development residuals on a team's wins in the next 3 years, and the results were surprising.
+
+{{< include assets/lag_interactive.html >}}
+
+Draft Production and Development have far stronger associations with future wins than recruiting does. A team that produces NFL talen in 2010 and outperforms their expected draft results is more likely to win in 2012 and 2013. On the other hand, a strong recruiting class in 2010 tells you almost nothing about wins three years later. Recruiting's supposed positive association with wins was the result of the hidden mechanism of development. Once you account for how well a program develops players, recruiting rankings explain very little in terms of future wins. 
+
+The idea that players being drafted in 2010 has a positive association with wins in 2013 sounds counterintuitive. Those players no longer play for the school in 2013 so how is the school winning? The answer is that NFL draft success is an indicator that the school has a proven pipeline for developing their players. The next question to ask is: what makes some school stronger at developing? The data points to one thing: the coach. 
+
+# Act 4: Coaches Drive Development
+
+Across 168 FBS programs from 2005 to 2016, the programs that consistently developed talent beyond their recruiting expectations aren't random. They cluster around specific coaches. The linked view below ranks coaches by their development residual to see where their program lands on the recruiting vs winning spectrum.
+
+Click Nick Saba, Kirk Ferentz, Butch Jones, and notice where they lay on win percentage and recruiting.
+
+{{< include assets/linked_view.html >}}

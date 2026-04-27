@@ -1,0 +1,27 @@
+---
+title: "About"
+---
+
+![Matteo Balentine](assets/my_image.jpeg)
+
+# About Me
+
+Matteo Balentine is a student at Georgetown University receiving a Master's in Data Science and Analytics and a Bachelor's in Economics. Before coming to Georgetown, he spent 3 semester at Boston College between Fall 2022 - Fall 2023. He then transferred to Georgetown starting in spring of 2024. Matteo has experience in the bio tech industry, working as a Data Science intern at Tiziana Life Sciences during the summer of 2025 and working with a researching professor to publish findings on musculoskeletal health differences between gamers and non-gamers during the summer of 2024. Matteo is also a member of Georgetown's Division 1 Lightweight Rowing team, leading them to a 7th place finish in the 2025 national championship. Prior to his senior year, Matteo was elected to the role of Senior Class President to serve as an intermediary between his teammates and the coaching staff. Outside of Georgetown, Matteo is interested in quantitative finance and is hoping to pursue a career in the field.
+
+# Education
+
+- 2022 - 2023: **Boston College**
+- 2024 - 2026: **Georgetown University BA in Economics & Minor in Statistics**
+- 2025 - 2027: **Georgetown University MS in Data Science & Analytics**
+
+# Academic Interests
+
+- Data Science
+- Economics 
+- Statistics
+- Quantitative Finance
+- Sports Analytics
+
+# Published Work
+
+[Where Muscle Matters: How Regional Differences, Pain, and Gender Define Gamer Health](https://www.mdpi.com/1660-4601/22/5/687)

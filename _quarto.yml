@@ -1,0 +1,33 @@
+project:
+  type: website
+  resources:
+    - assets/
+
+website:
+  title: "The Billion Dollar Teenagers"
+  navbar:
+    left:
+      - href: index.qmd
+        text: The Story
+      - href: about.qmd
+        text: About Me
+      - href: appendix.qmd
+        text: Technical Appendix
+      - href: data.qmd
+        text: Data and Methods
+      - href: ai-log.qmd
+        text: AI Usage log
+
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: false
+    embed-resources: true
+    code-fold: true
+
+
+

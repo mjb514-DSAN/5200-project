@@ -1,0 +1,56 @@
+/* css styles */
+body {
+  background-color: #FAF7F2;
+  color: #1A1A2E;
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+}
+
+h1, h2, h3 {
+  font-family: Georgia, serif;
+  color: #1A1A2E;
+}
+
+.navbar {
+  background-color: #1A3A5C !important;
+}
+
+.navbar-brand, .nav-link {
+  color: #FAF7F2 !important;
+}
+
+.nav-link:hover {
+  color: #C9A84C !important;
+}
+
+/* Narrative prose styling */
+.narrative {
+  max-width: 800px;
+  margin: 0 auto;
+  line-height: 1.8;
+  font-size: 17px;
+}
+
+/* Visualization containers */
+.viz-container {
+  margin: 48px 0;
+}
+
+/* Hero section */
+.hero {
+  text-align: center;
+  padding: 60px 20px;
+  border-bottom: 2px solid #1A3A5C;
+  margin-bottom: 48px;
+}
+
+.hero h1 {
+  font-size: 52px;
+  color: #1A1A2E;
+}
+
+.hero .subtitle {
+  font-size: 18px;
+  color: #5A5A72;
+  max-width: 600px;
+  margin: 16px auto 0;
+}
