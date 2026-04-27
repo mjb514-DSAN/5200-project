@@ -2,6 +2,12 @@ project:
   type: website
   resources:
     - assets/
+  render:     
+    - index.qmd
+    - about.qmd
+    - appendix.qmd
+    - data.qmd
+    - ai-log.qmd
 
 website:
   title: "The Billion Dollar Teenagers"
@@ -21,12 +27,10 @@ website:
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: cosmo
     css: styles.css
     toc: false
-    embed-resources: true
+    embed-resources: false
     code-fold: true
 
 

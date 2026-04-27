@@ -1,5 +1,8 @@
 ---
 title: "The Billion Dollar Teenagers"
+format: 
+    html:
+        embed-resources: false
 ---
 
 # The Fundamental Misunderstanding of College Football
@@ -18,7 +21,7 @@ Then, in 2026 something happened that nobody expected. The University of Indiana
 
 ![Scatterplot of Wins x Recruiting](assets/scatterplot1.png)
 
-The scatterplot above explores the relationship between recruiting and winning across 2005 to 2016, using averages of a team's win percentage and recruiting points over the 11 year span. It corroborates conventional thinking, as programs that recruit better tend to also win more games (r=.61). Alabama stands out in the top right corner as the blueprint for what it means to be successful. One of the highest win percentages and the best recruiter in college football over the period. However, the relationship isn't as strong as conventional wisdom would say. Teams like Boise State act as stark outliers. They don't recruit well, but they win at an elite level. On the other hand, Tennessee and Kansas are both strong recruiters who have failed to win with those recruits. The variance across the plot is large enough to raise questions. Teams can have the same recruiting level but completely different win percentages. Recruiting points you in the right direction, but it's not the full story. Overall, this plot agrees with the idea that recruiting and winning typically have a positive relationship. However, is it because teams recruit better athletes and win because of it, or do teams win and then recruit better athletes after the fact, or are there hidden mechanisms working to prop this relationship up?
+The scatterplot above explores the relationship between recruiting and winning across 2005 to 2016, using averages of a team's win percentage and recruiting points over the 11 year span. It corroborates conventional thinking, as programs that recruit better tend to also win more games (r=.61). Alabama stands out in the top right corner as the blueprint for what it means to be successful. One of the highest win percentages and the best recruiter in college football over the period. However, the relationship isn't as strong as conventional wisdom would say. Teams like Boise State act as stark outliers. They don't recruit well, but they win at an elite level. On the other hand, Tennessee and Kansas are both strong recruiters who have failed to win with those recruits. The variance across the plot is large enough to raise questions. Teams can have the same recruiting level but completely different win percentages. Recruiting points you in the right direction, but it's not the full story. Overall, this plot agrees with the idea that recruiting and winning typically have a positive relationship. However, is it because teans recruit better athletes and win because of it, or do teams win and then recruit better athletes after the fact, or are there hidden mechanisms working to prop this relationship up?
 
 ## Act 3: The Plot Twist
 
@@ -30,16 +33,59 @@ The second mechanism that I wanted to explore is the idea of development. Develo
 
 Combining all three of these ideas together, I chose to explore the relationship between recruiting, NFL Draft Results, and Development residuals on a team's wins in the next 3 years, and the results were surprising.
 
-{{< include assets/lag_interactive.html >}}
+```{=html}
+<iframe src="assets/lag_interactive.html" 
+        width="100%" 
+        height="600px" 
+        frameborder="0"
+        style="border: none; display: block;">
+</iframe>
+```
 
 Draft Production and Development have far stronger associations with future wins than recruiting does. A team that produces NFL talen in 2010 and outperforms their expected draft results is more likely to win in 2012 and 2013. On the other hand, a strong recruiting class in 2010 tells you almost nothing about wins three years later. Recruiting's supposed positive association with wins was the result of the hidden mechanism of development. Once you account for how well a program develops players, recruiting rankings explain very little in terms of future wins. 
 
-The idea that players being drafted in 2010 has a positive association with wins in 2013 sounds counterintuitive. Those players no longer play for the school in 2013 so how is the school winning? The answer is that NFL draft success is an indicator that the school has a proven pipeline for developing their players. The next question to ask is: what makes some school stronger at developing? The data points to one thing: the coach. 
+The idea that players being drafted in 2010 has a positive association with wins in 2013 sounds counterintuitive. Those players no longer play for the school in 2013 so how is the school winning? To understand this, we will explore Alabama and Tennessee, two SEC programs with very different trajectories over the period.
 
-# Act 4: Coaches Drive Development
 
-Across 168 FBS programs from 2005 to 2016, the programs that consistently developed talent beyond their recruiting expectations aren't random. They cluster around specific coaches. The linked view below ranks coaches by their development residual to see where their program lands on the recruiting vs winning spectrum.
+# Act 4: A Case Study of Two SEC Programs
 
-Click Nick Saba, Kirk Ferentz, Butch Jones, and notice where they lay on win percentage and recruiting.
+Alabama and Tennessee share a lot in common. They both play in the South Eastern Conference (SEC), both have historic programs known for winning, and both recruit some of the best high schoolers in the country. However, during the 2005-2016 period, Alabama built a dynasty while Tennessee went from a top tier program to mediocre. Using their trajectories, we can understand more about how development actually plays a role in future winning.
 
-{{< include assets/linked_view.html >}}
+![Alabama and Tennessee Time Series](assets/case-study.png)
+
+Looking at Alabama, upon Saban's arrival in 2007, the class he recruited exceeded NFL expectations. Players under his system were drafted far higher than they were expected given their star rating in high school. After the development residual increases, wins increase in the following years. As wins increase, the recruiting rankings grow stronger. Meanwhile, Tennessee decreases their development residual below 0 in 2007, and this is followed by an immediate dip in their win percentage in 2008. Despite strong recruiting classes in the late 2000's, their development residual remains below 0 and as a result their win percentage stays low.
+
+In both cases, development moved first. Wins and recruiting followed. This confirms the lag correlations from earlier. Development is the key to turning a program from a loser to a winner. 
+
+These two teams tell the clearest story, but every program has its own trajectory. Use the explorer below to see how each team changes over time across all 3 metrics. 
+
+```{=html}
+<iframe src="assets/explorer.html" 
+        width="100%" 
+        height="600px" 
+        frameborder="0"
+        style="border: none; display: block;">
+</iframe>
+```
+
+If development is the key to winning games in the future, what drives development differences across programs? Why does Alabama consistently develop players beyond expectations while Tennessee falls short? The answer: the Coach.
+
+# Act 5: Coaches Drive Development
+
+Across 168 FBS programs from 2005 to 2016, the programs that consistently developed talent beyond their recruiting expectations aren't random. They cluster around specific coaches. The linked view below ranks coaches by their development residual to see where their program lands on the recruiting vs winning spectrum during their tenure.
+
+Click the bar's of the coaches with higher development residuals and notice where they fall on win percentage and recruiting compared to the coaches with lower development residual.
+
+```{=html}
+<iframe src="assets/linked_view.html" 
+        width="100%" 
+        height="600px" 
+        frameborder="0"
+        style="border: none; display: block;">
+</iframe>
+```
+
+The coaches with the highest development residual typically had higher win percentages. This corroborates the findings earlier that development and winning are associated. The more interesting observation can be found through coaches that appear for multiple different schools. Chris Petersen appears twice in the scatterplot for his tenures at Boise State and the University of Washington. Despite far different recruiting rankings, he managed to win with both schools. Rich Rodriguez, on the other hand, coached at 3 schools and failed to win at 2 of them. The shocking part is that he recruited better at those schools than at the school he won with. 
+
+College Football Programs chase after 17 year olds and invest in them thinking that they are going to turn their program around. However, the person who is going to turn their program around is the 40 year old coach sitting on the sidelines. Teams should focus more resources on investing in the best coaches who can build the pipelines of development, and the recruits and winning will follow. The billion dollar question isn't who you recruit; it's who you hire to develop them.
+
